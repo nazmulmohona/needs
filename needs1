@@ -272,6 +272,18 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
 http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-logo="https://www.kindpng.com/picc/m/163-1630187_star-sports-1-logo-hd-png-download.png" tvg-name="Star Sports 1"  group-title="Sports",Star Sports 1
+http://93.152.174.144:4000/play/ss1in/index.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" tvg-name="Star Sports 2"  group-title="Sports",Star Sports 2
+http://93.152.174.144:4000/play/ss2in/index.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" tvg-name="Star Sports 3"  group-title="Sports",Star Sports 3
+http://93.152.174.144:4000/play/ss3in/index.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" tvg-name="PTV Sports"  group-title="Sports",PTV Sports
+http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Sports", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
