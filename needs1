@@ -182,9 +182,6 @@ http://103.205.133.40/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangladeshi", Nagorik TV 
 http://103.205.133.40/hls/nagorik.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangladeshi",Sony Aath
-http://103.205.133.40/hls/sony8.m3u8
-
 
 
 
@@ -281,6 +278,12 @@ http://93.152.174.144:4000/play/ss2in/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" tvg-name="Star Sports 3"  group-title="Sports",Star Sports 3
 http://93.152.174.144:4000/play/ss3in/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
 #EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" tvg-name="PTV Sports"  group-title="Sports",PTV Sports
 http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 
@@ -313,9 +316,6 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Movies", AXN
 http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFqJax5.png" group-title="Movies",Zee Bangla Cinema
-https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4wl6dzq.png" group-title="Movies",Wild West 
 https://localnowwildwest-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60bf9392e4f3185ab165fcc4_localnowwildwest-live/4c446ad0-cba9-41ba-81a7-f127d2ede93a/0.m3u8
@@ -403,3 +403,18 @@ https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" tvg-country="US" tvg-url="" group-title="English",VoA TV
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFqJax5.png" group-title="Indian",Zee Bangla Cinema
+https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian",Sony Aath
+http://103.205.133.40/hls/sony8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Indian", Colors HD
+http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Indian", Sony Max HD 
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
