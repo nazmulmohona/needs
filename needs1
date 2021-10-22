@@ -278,6 +278,9 @@ http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=568de1d7e26e80c1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Free Sports
 http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8?nimblesessionid=2273265
 
+#EXTINF:-1, tvg-id="" tvg-logo="https://1.bp.blogspot.com/-3sDdZUskBps/W6bY5lnNfcI/AAAAAAAAAFM/zumtDN9XvAwFvKkZggMQyBpy5wbTv3y1QCLcBGAs/s1600/live%2Btv.jpg" tvg-name="Free Live TV"  group-title="Sports",Free Live TV
+http://172.16.29.28/hls/sports3.m3u8
+
 #EXTINF:-1, tvg-id="" tvg-logo="https://www.kindpng.com/picc/m/163-1630187_star-sports-1-logo-hd-png-download.png" tvg-name="Star Sports 1"  group-title="Sports",Star Sports 1
 http://93.152.174.144:4000/play/ss1in/index.m3u8
 
