@@ -275,7 +275,7 @@ http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD 2
 http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=568de1d7e26e80c1a3462511b461b7a041d6ac80-7fba787406e4a071cd9c31508564a753-1634908681-1634897881
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Free Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/FreeSportsLogo.jpg" group-title="Sports", Free Sports
 http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8?nimblesessionid=2273265
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://1.bp.blogspot.com/-3sDdZUskBps/W6bY5lnNfcI/AAAAAAAAAFM/zumtDN9XvAwFvKkZggMQyBpy5wbTv3y1QCLcBGAs/s1600/live%2Btv.jpg" tvg-name="Free Live TV"  group-title="Sports",Free Live TV
