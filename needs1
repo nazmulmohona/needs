@@ -335,6 +335,12 @@ https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" tvg-name="Fox Cricket"  group-title="Sports",Fox Cricket
+http://45.76.153.227/ch/icc.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/0303b2dd021b9041b59c97691d63b800b6abcfe11bd987736604ff88bb8e764d.png" tvg-name="ATN Live"  group-title="Sports",ATN Live
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
+
 #EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" tvg-name="PTV Sports"  group-title="Sports",PTV Sports
 http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 
