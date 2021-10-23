@@ -134,14 +134,17 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangladeshi", Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",GAZI TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports",GAZI TV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",GAZI TV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports",GAZI TV 2
 http://103.40.226.94:8080/hls/channel_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",GAZI TV 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports",GAZI TV 3
 http://103.81.104.118/hls/Gazi-TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports",GAZI TV 4
+http://cdn.ihub.live:8082/j-GTV/tracks-v1a1/mono.m3u8?token=edc02547545813ec579c179ee3ec9edda47c60b1-0d41a1cbfb0c1685890caaf95fb39562-1635013193-1635002393
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangladeshi", Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -306,7 +309,7 @@ http://103.81.104.118/hls/travelxp.m3u8
 http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD 2
-http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=568de1d7e26e80c1a3462511b461b7a041d6ac80-7fba787406e4a071cd9c31508564a753-1634908681-1634897881
+http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=69128331675b283f744ee68073730c30bf29a91c-ff0254abcf3c3e0d651675d1eebf1556-1635013433-1635002633
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/FreeSportsLogo.jpg" group-title="Sports", Free Sports
 http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8?nimblesessionid=2273265
