@@ -293,6 +293,9 @@ http://103.81.104.118/hls/stersports1hd.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" tvg-name="Star Sports 2"  group-title="Sports",Star Sports 2
 http://93.152.174.144:4000/play/ss2in/index.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" tvg-name="Star Sports 2"  group-title="Sports",Star Sports 2 (2)
+http://103.81.104.118/hls/starsports2.m3u8
+
 #EXTINF:-1, tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" tvg-name="Star Sports 3"  group-title="Sports",Star Sports 3
 http://93.152.174.144:4000/play/ss3in/index.m3u8
 
