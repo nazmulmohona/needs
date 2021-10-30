@@ -180,7 +180,7 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/-3sDdZUskBps/W6bY5lnNfcI/AAAAAAAAAFM/zumtDN9XvAwFvKkZggMQyBpy5wbTv3y1QCLcBGAs/s1600/live%2Btv.jpg",Free Live TV
-http://172.16.29.28/hls/sports3.m3u8
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUjeCMq2L4BV-goxj65Bnhfd_uxRD_cUnpwiyu=s900-c-k-c0x00ffffff-no-rj" tvg-name="Tsports"  group-title="Sports",Tsports
 http://103.70.140.27:8080/hls/tsports.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.kindpng.com/picc/m/163-1630187_star-sports-1-logo-hd-png-download.png",Star Sports 1
