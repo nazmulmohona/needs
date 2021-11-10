@@ -92,7 +92,7 @@ https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GAZI TV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GAZI TV.
-http://103.40.226.94:8080/hls/channel_1.m3u8
+http://172.16.50.195/GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/kFqOMtx.png",Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/pTJSGtj.png",Boishakhi TV
@@ -217,6 +217,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/EDPdahO.png",Star Movies Select HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/EDPdahO.png",Star Movies Select HD 2
+http://172.16.50.195/starmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/4wl6dzq.png",Wild West
 https://localnowwildwest-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60bf9392e4f3185ab165fcc4_localnowwildwest-live/4c446ad0-cba9-41ba-81a7-f127d2ede93a/0.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.epg.best/us/HBOFamily.us.png",HBO Family East
@@ -248,7 +250,8 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://pbs.twimg.com/profile_images/1138790317107294215/ggF9E0xg_400x400.jpg",Nick HD Plus
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
-
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTX7vZnyszXeILM5rzhoKbWOaBsMOurfhXgI4nMhg=s900-c-k-c0x00ffffff-no-rj",CBeebies
+http://172.16.50.195/sonyyay/tracks-v1a1/mono.m3u8
 
 
 
