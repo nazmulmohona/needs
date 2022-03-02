@@ -110,11 +110,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://imgur.com/H9qgGSc.png",Bangladesh Television
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/TWuzjbg.jpg",My TV HD
-https://last.gcdn.co/IND439/index.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangladeshi",71 TV
 http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangladeshi",NTV
-https://last.gcdn.co/IND420/index.m3u8
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG",MOHONA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png",RTV HD
@@ -130,7 +130,33 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/500px-JamunaTV_logo.jpg",JAMUNA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla",Sony Aath
-http://last.gcdn.co/IND395/tracks-v1a1/mono.m3u8
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla",Zee Bangla Cinema
+http://103.170.140.8/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla",Jalsha Movies HD
+http://live.flixhub.net/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla",Colors Bangla HD
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla",Enter 10 Bangla
+http://14.199.164.20:4001/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla",Zee Bangla HD
+http://103.166.253.222/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla",Star Jalsha HD
+http://103.170.140.8/hls/starjalsha.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -189,7 +215,7 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/-3sDdZUskBps/W6bY5lnNfcI/AAAAAAAAAFM/zumtDN9XvAwFvKkZggMQyBpy5wbTv3y1QCLcBGAs/s1600/live%2Btv.jpg",Free Live TV
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUjeCMq2L4BV-goxj65Bnhfd_uxRD_cUnpwiyu=s900-c-k-c0x00ffffff-no-rj" tvg-name="Tsports"  group-title="Sports",Tsports
-http://172.16.50.195/T-SPORTS/tracks-v1a1/mono.m3u8
+http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.kindpng.com/picc/m/163-1630187_star-sports-1-logo-hd-png-download.png",Star Sports 1
 http://93.152.174.144:4000/play/ss1in/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg",Star Sports 2
@@ -260,7 +286,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/PK9Gm5g.png",Duronto TV
-http://89.187.185.89:3232/ban-duronto/index.m3u8
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://pbs.twimg.com/profile_images/1138790317107294215/ggF9E0xg_400x400.jpg",Nick HD Plus
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTX7vZnyszXeILM5rzhoKbWOaBsMOurfhXgI4nMhg=s900-c-k-c0x00ffffff-no-rj",CBeebies
