@@ -7,8 +7,10 @@ http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.whooshpro.com/wp-content/uploads/2019/11/cna-logo.png",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/vyrc1I1.png",CNN (FHD)
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/vyrc1I1.png",CNN (US)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="PLUTO-TV",CNN (UK)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif",CNN (HD)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/hc5a1YP.png",FOX News Now
@@ -19,6 +21,15 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",NBC News Now
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="https://yt3.ggpht.com/NIXyUN63VNSJNVCopAKnZsHOgCDSksQo7815Lx7Bo2WTKxYaFOz7LHHUheF6FW4OlN4-whby=s900-c-k-c0x00ffffff-no-rj" tvg-name="Arirang TV"  group-title="News",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ21BVR2XXhuPuSZAf1HC6quBldr1TQYxXO552Mre4=s900-c-k-c0x00ffffff-no-rj" tvg-name="NDTV"  group-title="News",NDTV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/nhkworld-lg.jpg" tvg-name="NHK WORLD-JAPAN"  group-title="News",NHK WORLD-JAPAN
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="https://od.lk/s/MF8yMzIyMDM0MzNf/USAToday_480x480.png",USA Today
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmluZGlhdG9kYXlfaWNvbl8xNTUzNDk3OTIwXzA3OQ/icon.png?w=&fakeurl=1",India Today
