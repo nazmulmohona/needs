@@ -406,48 +406,70 @@ http://103.136.200.246:8082/Adsports2/tracks-v1a1/mono.m3u8
 http://103.136.200.246:8082/Adsports3/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="group-title=",colorsbangla
 http://103.136.200.246:8082/colorsbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZeeBanglacinema
-http://103.136.200.246:8082/ZeeBanglacinema/index.m3u8
-#EXTINF:-1 ,Star-Jalsha
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star-Jalsha"  group-title="Unsorted",Star-Jalsha
 http://103.136.200.246:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,DBC-NEWS
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DBC-NEWS"  group-title="Unsorted",DBC-NEWS
 http://103.136.200.246:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Ekattor-tv
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ekattor-tv"  group-title="Unsorted",Ekattor-tv
 http://103.136.200.246:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Atn-News
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Atn-News"  group-title="Bangla",Atn-News
 http://103.136.200.246:8082/Atn-News/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Independent-Tv
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Independent-Tv"  group-title="Bangla",Independent-Tv
 http://103.136.200.246:8082/Independent-Tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,News24bd
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="News24bd"  group-title="Bangla",News24bd
 http://103.136.200.246:8082/News24bd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel24
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel24"  group-title="Bangla",Channel24
 http://103.136.200.246:8082/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",ATN-Bangla
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" tvg-name="ATN-Bangla"  group-title="Bangla",ATN-Bangla
 http://103.136.200.246:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel-i
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel-i"  group-title="Bangla",Channel-i
 http://103.136.200.246:8082/Channel-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Ekushey-TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ekushey-TV"  group-title="Bangla",Ekushey-TV
 http://103.136.200.246:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Ntv
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ntv"  group-title="Bangla",Ntv
 http://103.136.200.246:8082/Ntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,RTV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV"  group-title="Bangla",RTV
 http://103.136.200.246:8082/RTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SATV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SATV"  group-title="Bangla",SATV
 http://103.136.200.246:8082/SATV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BanglaVision
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BanglaVision"  group-title="Bangla",BanglaVision
 http://103.136.200.246:8082/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Boishakhi
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Boishakhi"  group-title="Bangla",Boishakhi
 http://103.136.200.246:8082/Boishakhi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,GaanBangla
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GaanBangla"  group-title="Bangla",GaanBangla
 http://103.136.200.246:8082/GaanBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,MohonaTV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MohonaTV"  group-title="Bangla",MohonaTV
 http://103.136.200.246:8082/MohonaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,MyTV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MyTV"  group-title="Bangla",MyTV
 http://103.136.200.246:8082/MyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Nagorik-TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nagorik-TV"  group-title="Bangla",Nagorik-TV
 http://103.136.200.246:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,anandotv
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ananda TV"  group-title="Bangla",Ananda TV
 http://103.136.200.246:8082/anandotv/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:-1 ,Movies_Now_2
 http://103.136.200.246:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setmax HD
