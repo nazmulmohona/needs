@@ -299,30 +299,9 @@ https://stream.rangdhanu.live/TSports/mono.m3u8
 http://tvserver.aliflailabd.com:8989/gazi-tv/index.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://imgur.com/CJUmEHD.png",Alif-T Sports
 http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/5XpuFP.png",SATV HD
-https://stream.rangdhanu.live/SATV/video.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/5PsRkPd.png",ATN BANGLA
-https://stream.rangdhanu.live/ATNBangla/video.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/pTJSGtj.png",BOISHAKHI TV
-https://stream.rangdhanu.live/BoishakhiTV/video.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/HX8SSDA.png",BANGLAVISION
-https://stream.rangdhanu.live/BanglaVision/video.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/TWuzjbg.png",MY TV
-https://stream.rangdhanu.live/MyTV/video.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/kFqOMtx.png",EKUSEY TV
-https://stream.rangdhanu.live/EkusheyTv/video.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/eP45j9z.png",MOHONA TV
-https://stream.rangdhanu.live/MohonaTV/video.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/yi5p51T.png",RTV HD
-https://stream.rangdhanu.live/RTV/video.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/3usnOla.png",NTV BD
-https://stream.rangdhanu.live/NTV/video.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/2cpHJKq.png",NAGORIK TV
-https://stream.rangdhanu.live/NagorikTV/video.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/oMXI9Dv.png",GAAN BANGLA
-https://stream.rangdhanu.live/GaanBangla/video.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/OTzS5Fc.png",ATN MUSIC
-https://stream.rangdhanu.live/ATNMusic/video.m3u8
+
+
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/RqJGZfm.png",Sony Aath
 https://stream.rangdhanu.live/SonyAath/video.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/sVK7liT.png",ZeeBangla HD
