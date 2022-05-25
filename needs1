@@ -209,7 +209,7 @@ http://103.136.200.246:8082/Independent-Tv/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel24"  group-title="amrbd",Channel24
 http://103.136.200.246:8082/Channel24/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="amrbd"News24"  group-title="amrbd",amrbd"News24
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="amrbd"News24"  group-title="amrbd"News24
 http://103.136.200.246:8082/News24bd/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DBC News"  group-title="amrbd",DBC News
