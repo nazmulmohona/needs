@@ -183,91 +183,138 @@ http://103.167.190.250/hls/aljazeera.m3u8
 http://103.167.190.250/hls/bbcworld.m3u8
 
 
-#EXTINF:-1 ,group-title="amrbd"Gazi TV
+
+
+
+
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Gazi TV"  group-title="amrbd",Gazi TV
 http://103.136.200.246:8082/Gazi-Tv/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"ATN Bangla
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="amrbd",ATN Bangla
 http://103.136.200.246:8082/ATN-Bangla/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Somoy TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Somoy TV"  group-title="amrbd",Somoy TV
 http://103.136.200.246:8082/Somoy-TV/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Ekahtor TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ekahtor TV"  group-title="amrbd",Ekahtor TV
 http://103.136.200.246:8082/Ekattor-tv/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"ATN News
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATN News"  group-title="amrbd",ATN News
 http://103.136.200.246:8082/Atn-News/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Independent TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Independent TV"  group-title="amrbd",Independent TV
 http://103.136.200.246:8082/Independent-Tv/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Channel24
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel24"  group-title="amrbd",Channel24
 http://103.136.200.246:8082/Channel24/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"News24
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="amrbd"News24"  group-title="amrbd",amrbd"News24
 http://103.136.200.246:8082/News24bd/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"DBC News
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DBC News"  group-title="amrbd",DBC News
 http://103.136.200.246:8082/DBC-NEWS/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Channel I
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel I"  group-title="amrbd",Channel I
 http://103.136.200.246:8082/Channel-i/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Ekushay TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ekushay TV"  group-title="amrbd",Ekushay TV
 http://103.136.200.246:8082/Ekushey-TV/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"NTV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NTV"  group-title="amrbd",NTV
 http://103.136.200.246:8082/Ntv/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"RTV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV"  group-title="amrbd",RTV
 http://103.136.200.246:8082/RTV/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"SATV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SATV"  group-title="amrbd",SATV
 http://103.136.200.246:8082/SATV/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Mohona TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mohona TV"  group-title="amrbd",Mohona TV
 http://103.136.200.246:8082/MohonaTV/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"My TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="My TV"  group-title="amrbd",My TV
 http://103.136.200.246:8082/MyTV/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Anando TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Anando TV"  group-title="amrbd",Anando TV
 http://103.136.200.246:8082/anandotv/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Bangla Vision
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bangla Vision"  group-title="amrbd",Bangla Vision
 http://103.136.200.246:8082/BanglaVision/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Nagorik TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nagorik TV"  group-title="amrbd",Nagorik TV
 http://103.136.200.246:8082/Nagorik-TV/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Boishakhi TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Boishakhi TV"  group-title="amrbd",Boishakhi TV
 http://103.136.200.246:8082/Boishakhi/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Gaan Bangla
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Gaan Bangla"  group-title="amrbd",Gaan Bangla
 http://103.136.200.246:8082/GaanBangla/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Sony Aath
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony Aath"  group-title="amrbd",Sony Aath
 http://103.136.200.246:8082/Sonyaath/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Star Jalsha
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star Jalsha"  group-title="amrbd",Star Jalsha
 http://103.136.200.246:8082/Star-Jalsha/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Star Jalsha HD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star Jalsha HD"  group-title="amrbd",Star Jalsha HD
 http://89.187.162.109/STARJALSHA/mono.m3u8
-#EXTINF:-1 ,group-title="amrbd"Zee Bangla HD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Zee Bangla HD"  group-title="amrbd",Zee Bangla HD
 http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Colors Bangla
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Colors Bangla"  group-title="amrbd",Colors Bangla
 http://103.136.200.246:8082/colorsbangla/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Sun Bangla
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sun Bangla"  group-title="amrbd",Sun Bangla
 http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,group-title="amrbd"Jalsha Movies HD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jalsha Movies HD"  group-title="amrbd",Jalsha Movies HD
 http://103.136.200.246:8082/Jalshamovies/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Sony TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony TV"  group-title="amrbd",Sony TV
 http://103.136.200.246:8082/SonyTVHD/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Sony TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony TV"  group-title="amrbd",Sony TV
 http://89.187.162.109/SONYHD/mono.m3u8
-#EXTINF:-1 ,group-title="amrbd"Sony Sab
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony Sab"  group-title="amrbd",Sony Sab
 http://103.136.200.246:8082/Sony_Sab/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Colors
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Colors"  group-title="amrbd",Colors
 http://103.136.200.246:8082/colorsindia/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Star Barath
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star Barath"  group-title="amrbd",Star Barath
 http://89.187.162.109/STARBHARATHD/mono.m3u8
-#EXTINF:-1 ,group-title="amrbd"And TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="And TV"  group-title="amrbd",And TV
 http://89.187.162.109/ANDTVHD/mono.m3u8
-#EXTINF:-1 ,group-title="amrbd"Zee Cinema HD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Zee Cinema HD"  group-title="amrbd",Zee Cinema HD
 http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Star Gold
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star Gold"  group-title="amrbd",Star Gold
 http://103.136.200.246:8082/StarGold/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"SONY Max
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY Max"  group-title="amrbd",SONY Max
 http://103.136.200.246:8082/Sony-Max/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Bflix
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bflix"  group-title="amrbd",Bflix
 http://103.136.200.246:8082/bflix/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Sony Six
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony Six"  group-title="amrbd",Sony Six
 http://103.136.200.246:8082/SonySix/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"SONY Ten 1
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY Ten 1"  group-title="amrbd",SONY Ten 1
 http://103.136.200.246:8082/Ten1/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"SONY Ten 2
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY Ten 2"  group-title="amrbd",SONY Ten 2
 http://103.136.200.246:8082/Ten2/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"SONY Ten 3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY Ten 3"  group-title="amrbd",SONY Ten 3
 http://103.136.200.246:8082/Ten3/index.m3u8
-#EXTINF:-1 ,group-title="amrbd"Sony Pix
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony Pix"  group-title="amrbd",Sony Pix
 http://103.136.200.246:8082/SonyPix/index.m3u8
 
 
