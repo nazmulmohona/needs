@@ -211,7 +211,7 @@ http://103.136.200.246:8082/MyTV/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ananda-tv-bd.png" tvg-name="Anando TV"  group-title="amrbd",Anando TV
 http://103.136.200.246:8082/anandotv/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bangla-vision-bd.svg" tvg-name="Bangla Vision"  group-title="amrbd",Bangla Vision
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" tvg-name="Bangla Vision"  group-title="amrbd",Bangla Vision
 http://103.136.200.246:8082/BanglaVision/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nagorik-bd.png" tvg-name="Nagorik TV"  group-title="amrbd",Nagorik TV
