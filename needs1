@@ -293,20 +293,163 @@ http://103.136.200.246:8082/SonyPix/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Aliflailabd",9X Jalwa
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="9X Jalwa"  group-title="Aliflailabd",9X Jalwa
 http://tvserver.aliflailabd.com:8989/9X-JALWA/index.m3u8
-#EXTINF:-1 group-title="Aliflailabd",Bein Sports 1
-http://tvserver.aliflailabd.com:8989/beinsport1/index.m3u8
-#EXTINF:-1 group-title="Aliflailabd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png",9XM
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sports 2"  group-title="Aliflailabd",Bein Sports 2
+http://tvserver.aliflailabd.com:8989/beinsport2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png" tvg-name="9XM"  group-title="Aliflailabd",9XM
 http://tvserver.aliflailabd.com:8989/9xm/tracks-8,1/index.m3u8
-#EXTINF:-1 group-title="Aliflailabd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png",Al Jazeera
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png" tvg-name="Al Jazeera"  group-title="Aliflailabd",Al Jazeera
 http://tvserver.aliflailabd.com:8989/aljazeera-hd/index.m3u8
-#EXTINF:-1 group-title="Aliflailabd",Asian TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Asian TV"  group-title="Aliflailabd",Asian TV
 http://tvserver.aliflailabd.com:8989/asiantv/index.m3u8
-#EXTINF:-1 group-title="Aliflailabd",ATN Bangla
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Aliflailabd",ATN Bangla
 http://tvserver.aliflailabd.com:8989/atn-bangla/index.m3u8
-#EXTINF:-1 group-title="Aliflailabd",ATN Islamic TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATN Islamic TV"  group-title="Aliflailabd",ATN Islamic TV
 http://tvserver.aliflailabd.com:8989/atnislamictv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bangla Tv"  group-title="Aliflailabd",Bangla Tv
+http://tvserver.aliflailabd.com:8989/bangla-tv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Banglavision"  group-title="Aliflailabd",Banglavision
+http://tvserver.aliflailabd.com:8989/bangla-vision/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Baisakhi Tv"  group-title="Aliflailabd",Baisakhi Tv
+http://tvserver.aliflailabd.com:8989/boishakhi-tv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BTV"  group-title="Aliflailabd",BTV
+http://tvserver.aliflailabd.com:8989/btv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BTV World"  group-title="Aliflailabd",BTV World
+http://tvserver.aliflailabd.com:8989/btv-world/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Channel24"  group-title="Aliflailabd",Channel24
+http://tvserver.aliflailabd.com:8989/channel24/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Channel9"  group-title="Aliflailabd",Channel9
+http://tvserver.aliflailabd.com:8989/channel9/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Channel I"  group-title="Aliflailabd",Channel I
+http://tvserver.aliflailabd.com:8989/channel-i/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DBC News"  group-title="Aliflailabd",DBC News
+http://tvserver.aliflailabd.com:8989/dbc-news/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Deepto Tv"  group-title="Aliflailabd",Deepto Tv
+http://tvserver.aliflailabd.com:8989/depto-bangla/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ekattor Tv"  group-title="Aliflailabd",Ekattor Tv
+http://tvserver.aliflailabd.com:8989/ekattor/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ekushey Tv"  group-title="Aliflailabd",Ekushey Tv
+http://tvserver.aliflailabd.com:8989/ekushey-tv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Gazi Tv"  group-title="Aliflailabd",Gazi Tv
+http://tvserver.aliflailabd.com:8989/gazi-tv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Independent Tv"  group-title="Aliflailabd",Independent Tv
+http://tvserver.aliflailabd.com:8989/independent-tv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Jamuna Tv"  group-title="Aliflailabd",Jamuna Tv
+http://tvserver.aliflailabd.com:8989/jamuna-tv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Masranga Tv"  group-title="Aliflailabd",Masranga Tv
+http://tvserver.aliflailabd.com:8989/maasranga/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="My Tv"  group-title="Aliflailabd",My Tv
+http://tvserver.aliflailabd.com:8989/my-tv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nagorik Tv"  group-title="Aliflailabd",Nagorik Tv
+http://tvserver.aliflailabd.com:8989/nagorik-tv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NTV"  group-title="Aliflailabd",NTV
+http://tvserver.aliflailabd.com:8989/ntv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTV"  group-title="Aliflailabd",RTV
+http://tvserver.aliflailabd.com:8989/rtv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SATV"  group-title="Aliflailabd",SATV
+http://tvserver.aliflailabd.com:8989/satv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Somoy Tv"  group-title="Aliflailabd",Somoy Tv
+http://tvserver.aliflailabd.com:8989/somoy-tv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BBC Earth"  group-title="Aliflailabd",BBC Earth
+http://tvserver.aliflailabd.com:8989/bbc-earth/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BBC World"  group-title="Aliflailabd",BBC World
+http://tvserver.aliflailabd.com:8989/bbc-world/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Discovery"  group-title="Aliflailabd",Discovery
+http://tvserver.aliflailabd.com:8989/discovery/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DW"  group-title="Aliflailabd",DW
+http://tvserver.aliflailabd.com:8989/dw/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Movies Now"  group-title="Aliflailabd",Movies Now
+http://tvserver.aliflailabd.com:8989/movies-now/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Movies"  group-title="Aliflailabd",Star Movies
+http://tvserver.aliflailabd.com:8989/star-movies-hd/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Music Masti"  group-title="Aliflailabd",Music Masti
+http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Zoom"  group-title="Aliflailabd",Zoom
+http://tvserver.aliflailabd.com:8989/zoom/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Gaan Bangla"  group-title="Aliflailabd",Gaan Bangla
+http://tvserver.aliflailabd.com:8989/gaanbangla/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Duronto Tv"  group-title="Aliflailabd",Duronto Tv
+http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cartoon Network"  group-title="Aliflailabd",Cartoon Network
+http://tvserver.aliflailabd.com:8989/cartoon-network/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Set Max"  group-title="Aliflailabd",Set Max
+http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sony"  group-title="Aliflailabd",Sony
+http://tvserver.aliflailabd.com:8989/sony-hd/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sony Pix"  group-title="Aliflailabd",Sony Pix
+http://tvserver.aliflailabd.com:8989/sony-pix-hd/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Gold"  group-title="Aliflailabd",Star Gold
+http://tvserver.aliflailabd.com:8989/star-gold/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Plus"  group-title="Aliflailabd",Star Plus
+http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sky Net 2"  group-title="Aliflailabd",Sky Net 2
+http://tvserver.aliflailabd.com:8989/SKY-NET-2/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sky Net 1"  group-title="Aliflailabd",Sky Net 1
+http://tvserver.aliflailabd.com:8989/SKY-NET-1/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sky Net 6"  group-title="Aliflailabd",Sky Net 6
+http://tvserver.aliflailabd.com:8989/SKY-NET-6/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sky Net HD"  group-title="Aliflailabd",Sky Net HD
+http://tvserver.aliflailabd.com:8989/SKY-NET-HD/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sony Ten 1"  group-title="Aliflailabd",Sony Ten 1
+http://tvserver.aliflailabd.com:8989/sony-ten1-hd/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sony Ten 3"  group-title="Aliflailabd",Sony Ten 3
+http://tvserver.aliflailabd.com:8989/sony-ten3/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="T Sports"  group-title="Aliflailabd",T Sports
+http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
+
+
 
 
 
