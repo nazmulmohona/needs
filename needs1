@@ -563,7 +563,7 @@ http://103.167.190.250/hls/nick.m3u8
 http://103.167.190.250/hls/dis-kid.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg" tvg-name="Cartoon Network"  group-title="Internet TV",Cartoon Network
-http://103.167.190.250/hls/dis-kid.m3u8
+http://103.167.190.250/hls/cn.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pogo-in.png" tvg-name="Pogo"  group-title="Internet TV",Pogo
 http://103.167.190.250/hls/pogo.m3u8
@@ -673,7 +673,7 @@ http://103.167.190.250/hls/discovery.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" tvg-name="National Geographic"  group-title="Internet TV",National Geographic
 http://103.167.190.250/hls/ngohd.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc-us.svg" tvg-name="TLC"  group-title="Internet TV",TLC
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/tlc-logo.png" tvg-name="TLC"  group-title="Internet TV",TLC
 http://103.167.190.250/hls/tlc.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://logopond.com/logos/94837108d7422c0350c3b304c1504289.png" tvg-name="Wild Life"  group-title="Internet TV",Wild Life
