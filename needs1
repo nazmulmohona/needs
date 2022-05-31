@@ -85,7 +85,68 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atn_bangla_uk.png" tvg-name="ATN Bangla"  group-title="Fire TV",ATN Bangla
+http://103.60.172.106:8080/ATNBangla/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.mawbiz.com.bd/application/views/module/logo_image/ATN_Islamic_TV.png" tvg-name="ATN Islamic TV"  group-title="Fire TV",ATN Islamic TV
+http://103.60.172.106:8080/ATNIslamic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" tvg-name="Banglavision"  group-title="Fire TV",Banglavision
+http://103.60.172.106:8080/BanglaVision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boishakhi.png" tvg-name="Baisakhi Tv"  group-title="Fire TV",Baisakhi Tv
+http://103.60.172.106:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/btv_world.png" tvg-name="BTV World"  group-title="Fire TV",BTV World
+http://103.60.172.106:8080/BTVWorld/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel24_bd.png" tvg-name="Channel24"  group-title="Fire TV",Channel24
+http://103.60.172.106:8080/Channel24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dbc_news_bd.png" tvg-name="DBC News"  group-title="Fire TV",DBC News
+http://103.60.172.106:8080/DBCNews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ekattor_tv.png" tvg-name="Ekattor Tv"  group-title="Fire TV",Ekattor Tv
+http://103.60.172.106:8080/EkattorTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ekushey_tv.png" tvg-name="Ekushey Tv"  group-title="Fire TV",Ekushey Tv
+http://103.60.172.106:8080/EkusheyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my_tv_bd.png" tvg-name="My Tv"  group-title="Fire TV",My Tv
+http://103.60.172.106:8080/MyTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nagorik-bd.png" tvg-name="Nagorik Tv"  group-title="Fire TV",Nagorik Tv
+http://103.60.172.106:8080/NagorikTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_bd_europe.png" tvg-name="NTV"  group-title="Fire TV",NTV
+http://103.60.172.106:8080/NTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtv-bd.png" tvg-name="RTV"  group-title="Fire TV",RTV
+http://103.60.172.106:8080/RTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sa_tv_bd.png" tvg-name="SATV"  group-title="Fire TV",SATV
+http://103.60.172.106:8080/SATV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaan_bangla_tv_bd.png" tvg-name="Gaan Bangla"  group-title="Fire TV",Gaan Bangla
+http://103.60.172.106:8080/GaanBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atn_news_bd.png" tvg-name="ATN News"  group-title="Fire Tv",ATN News
+http://103.60.172.106:8080/ATNNews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://atnmusic.tv/images/logo.png" tvg-name="ATN Music"  group-title="Fire Tv",ATN Music
+http://103.60.172.106:8080/ATNMusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mohona_tv.png" tvg-name="Mohona Tv"  group-title="Fire TV",Mohona Tv
+http://103.60.172.106:8080/MohonaTV/tracks-v1a1/mono.m3u8?token=d774f2ccf8eadebf11a059c8f0d20870c7434733-daf43fe55cc396d4c6677862a1d3ce27-1654018530-1654007730
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/news_24_bd.png" tvg-name="News24"  group-title="Fire Tv",News24
+http://103.60.172.106:8080/News24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/colors-in.png" tvg-name="Colors"  group-title="Fire Tv",Colors
+http://103.60.172.106:8080/Colors/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/768px-CGTN.png" tvg-name="CGTN"  group-title="Fire Tv",CGTN
+http://103.60.172.106:8080/CGTN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" tvg-name="T Sports"  group-title="Fire TV",T Sports
 http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
