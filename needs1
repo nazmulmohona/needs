@@ -87,6 +87,81 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" tvg-name="T Sports"  group-title="Fire TV",T Sports
+http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" tvg-name="Gazi TV"  group-title="Fire TV",Gazi TV
+http://103.60.172.106:8080/GaziTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/somoy_news.png" tvg-name="Somoy TV"  group-title="Fire TV",Somoy TV
+http://103.60.172.106:8080/SomoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/independent_tv.png" tvg-name="Independent TV"  group-title="Fire TV",Independent TV
+http://103.60.172.106:8080/IndependentTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_aath_in.png" tvg-name="Sony Aath"  group-title="Fire TV",Sony Aath
+http://103.60.172.106:8080/SonyAath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-bangla-in.png" tvg-name="Zee Bangla HD"  group-title="Fire TV",Zee Bangla HD
+http://103.60.172.106:8080/ZeeBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/colors-bangla-in.png" tvg-name="Colors Bangla"  group-title="Fire TV",Colors Bangla
+http://103.60.172.106:8080/ColorsBanglaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_in_hd_plus.png" tvg-name="Nick"  group-title="Fire TV",Nick
+http://103.60.172.106:8080/Nick/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://logodix.com/logo/2104981.jpg" tvg-name="Zoom"  group-title="Fire TV",Zoom
+http://103.60.172.106:8080/Zoom/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/9x_music.png" tvg-name="9XM"  group-title="Fire TV",9XM
+http://103.60.172.106:8080/9XM/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-cinema-in.png" tvg-name="Zee Cinema HD"  group-title="Fire TV",Zee Cinema HD
+http://103.60.172.106:8080/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-marathi-in.png" tvg-name="Sony"  group-title="Fire TV",Sony
+http://103.60.172.106:8080/SonyTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_max_in.png" tvg-name="Set Max HD"  group-title="Fire TV",Set Max HD
+http://103.60.172.106:8080/SonyMaxHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_pix_in.png" tvg-name="Sony Pix HD"  group-title="Fire TV",Sony Pix HD
+http://103.60.172.106:8080/SonyPix/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-six-in.png" tvg-name="Sony Six"  group-title="Fire TV",Sony Six
+http://103.60.172.106:8080/SonySix/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" tvg-name="BBC Earth"  group-title="Fire TV",BBC Earth
+http://103.60.172.106:8080/BBCEarthHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1_tamil.png" tvg-name="Star Sports 1"  group-title="Fire TV",Star Sports 1
+http://103.60.172.106:8080/StarSports1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" tvg-name="Star Sports 2"  group-title="Fire TV",Star Sports 2
+http://103.60.172.106:8080/StarSports2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten1.png" tvg-name="Sony Ten 1"  group-title="Fire TV",Sony Ten 1
+http://103.60.172.106:8080/SonyTen1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten2.png" tvg-name="Sony Ten 2"  group-title="Fire TV",Sony Ten 2
+http://103.60.172.106:8080/SonyTen2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten3.png" tvg-name="Sony Ten 3"  group-title="Fire TV",Sony Ten 3
+http://103.60.172.106:8080/SonyTen3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_hk_select_hd_1.png" tvg-name="Star Sports Selected 2"  group-title="Fire TV",Star Sports Selected 2
+http://103.60.172.106:8080/StarSportsSelect2/tracks-v1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/9x_music.png" tvg-name="9XM Jalwa"  group-title="Fire Tv",9XM Jalwa
+http://103.60.172.106:8080/9XJalwa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2560px-MTV_Logo.svg.png" tvg-name="MTV"  group-title="Fire Tv",MTV
+http://103.60.172.106:8080/MTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-bflix-movies-2320.jpg" tvg-name="Bflix Movies"  group-title="Fire Tv",Bflix Movies
+http://103.60.172.106:8080/BflixMovies/tracks-v1a1/mono.m3u8
+
 
 
 
