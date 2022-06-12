@@ -326,7 +326,11 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" tvg-name="ATN Music "  group-title="JAGO BD ",ATN Music 
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nexus-tv-bd.png" tvg-name="Nexus Tv "  group-title="JAGO BD ",Nexus Tv
+http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.dw.com/image/52015610_101.png" tvg-name="DW News "  group-title="JAGO BD ",DW News
+http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
 
 
 
@@ -1123,17 +1127,4 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-jalsha-in.png" tvg-name="Star Jalsha HD"  group-title="Test",Star Jalsha HD
-http://89.187.162.109/STARJALSHA/mono.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun-bangla-in.png" tvg-name="Sun Bangla"  group-title="Test",Sun Bangla
-http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_pal_in.png" tvg-name="Sony TV"  group-title="Test",Sony TV
-http://89.187.162.109/SONYHD/mono.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" tvg-name="Star Barath"  group-title="Test",Star Barath
-http://89.187.162.109/STARBHARATHD/mono.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/and_tv_in.png" tvg-name="And TV"  group-title="Test",And TV
-http://89.187.162.109/ANDTVHD/mono.m3u8
