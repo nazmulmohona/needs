@@ -1072,14 +1072,9 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/PK9Gm5g.png",Duronto TV
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rongeen-tv-in.png",Rongeen TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://pbs.twimg.com/profile_images/1138790317107294215/ggF9E0xg_400x400.jpg",Nick HD Plus
-https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
-
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTX7vZnyszXeILM5rzhoKbWOaBsMOurfhXgI4nMhg=s900-c-k-c0x00ffffff-no-rj",CBeebies
-http://172.16.50.195/sonyyay/tracks-v1a1/mono.m3u8
 
 
 
