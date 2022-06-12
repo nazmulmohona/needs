@@ -931,23 +931,13 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/english.jpg",Peace TV English
-http://199.223.252.162:8032/english_adaptive/index.m3u8
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/ocyh4DD.jpg",Imam Hussein TV
-https://live.imamhossaintv.com/live/ih3.m3u8
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://pbs.twimg.com/profile_images/496946176554323968/mvKcSPoE_400x400.jpeg",British Muslim TV
-https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png",Islam Channel
-https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
+
 
 #EXTINF:-1 group-title="Religious" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSBpjxkMWytP7YmMRoRJARRcSN9w-ceWHavHq8qJg=s900-c-k-c0x00ffffff-no-rj",QVTV
 https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
-
-#EXTINF:-1 group-title="Religious" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/bangla.jpg",Peace TV Bangla
-http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/7Q3VtlF.png",ATN Islam
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
