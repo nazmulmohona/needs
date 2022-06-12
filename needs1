@@ -332,6 +332,14 @@ http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.dw.com/image/52015610_101.png" tvg-name="DW News "  group-title="JAGO BD ",DW News
 http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deepto_tv_bd.png" tvg-name="Deepto Tv"  group-title="JAGO BD",Deepto Tv
+http://208.86.19.13:81/609.stream/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ekattor_tv.png" tvg-name="Ekattor Tv"  group-title="JAGO BD",Ekattor Tv
+http://208.86.19.13:81/604.stream/index.m3u8
+
+
+
 
 
 
@@ -926,7 +934,11 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",Masti
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png" tvg-name="9X Tahsan"  group-title="Music",9X Tahsan
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat.com/logo/tv/num/9x_music.png" tvg-name="9XM Music"  group-title="Music",9XM Music
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 
 
