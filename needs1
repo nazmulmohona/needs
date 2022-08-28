@@ -196,11 +196,7 @@ http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.dw.com/image/52015610_101.png" tvg-name="DW News "  group-title="JAGO BD ",DW News
 http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deepto_tv_bd.png" tvg-name="Deepto Tv"  group-title="JAGO BD ",Deepto Tv
-http://208.86.19.13:81/609.stream/index.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ekattor_tv.png" tvg-name="Ekattor Tv"  group-title="JAGO BD ",Ekattor Tv
-http://208.86.19.13:81/604.stream/index.m3u8
 
 
 
