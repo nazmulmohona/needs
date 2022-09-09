@@ -223,44 +223,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/EDPdahO.png",Star Movies Select HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/EDPdahO.png",Star Movies Select HD 2
-http://172.16.50.195/starmovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/4wl6dzq.png",Wild West
 https://localnowwildwest-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60bf9392e4f3185ab165fcc4_localnowwildwest-live/4c446ad0-cba9-41ba-81a7-f127d2ede93a/0.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://static.epg.best/us/HBOFamily.us.png",HBO Family East
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://static.epg.best/id/HBOHits.id.png",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FiTdDp1.png",24 Hour Free Movies
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/JLkzt7v.jpg",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/pltVS6t.png",Classic Movies Channel
 https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/pIuJqYk.png",Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/X7U7ikq.png",STIRR FilmRise Free Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU",STIRR Star Movies
-https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Ths3dIy.png",Bumblebee TV PopCornFlix Action
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/hbo-hd-logo-300x300.jpg",HBO HD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 
 
@@ -279,9 +250,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 #EXTINF:-1 group-title="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV Asia Live Event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 
-#EXTINF:-1 group-title="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV Asia
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-
 #EXTINF:-1 group-title="English" tvg-logo="http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg",NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
 
@@ -294,9 +262,6 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live
 #EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC Style
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/X23p0GB.png",Weather Nation
-https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 group-title="English" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",23 ABC Bakersfield CA
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 
@@ -305,10 +270,4 @@ http://uni5rtmp.tulix.tv/betterhealth/betterhealth/chunklist_w848830638.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/gmrVKEC.jpg",Better Life TV
 https://uni5rtmp.tulix.tv/betterlife/betterlife/playlist.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/2D1e2bH.png",Celebrity Scene TV
-https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg",VoA TV
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
