@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Nx0BRdV.png",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eNPIQ9f.png",BBC News
-http://www.filmon.com/vr-streams/27.high/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://www.whooshpro.com/wp-content/uploads/2019/11/cna-logo.png",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?@amarnettv.live
 
@@ -19,9 +10,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/hc5a1YP.png",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="http://static.epg.best/us/FoxNews.us.png",Fox News Channel
-http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png",ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
@@ -41,41 +29,15 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://od.lk/s/MF8yMzIyMDM0MzNf/USAToday_480x480.png",USA Today
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmluZGlhdG9kYXlfaWNvbl8xNTUzNDk3OTIwXzA3OQ/icon.png?w=&fakeurl=1",India Today
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRqP1bTOMLY7nZiZBqbWnBWE0qZuGSK_qeKXp9VHsk=s900-c-k-c0x00ffffff-no-rj",CNBC 18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://static.dw.com/image/47222913_401.png",DW
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
+http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
+
 
 #EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6.jpg",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/6TmWzvk.jpg",CBC News
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",CBN News
-http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://www.cbn.com/partners/video/img/live_channel/cbn-family-live-channel-thumb.png",CBN Family
-https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://australiachannelagency.com/wp-content/uploads/2020/07/cropped-Logo-Web.png",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/X7YYFZR2/euronews.png",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 (FHD)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 (HD)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/fr24.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/XYJEasM.png",RT News
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtnews.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
