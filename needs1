@@ -14,9 +14,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/vyrc1I1.png",CNN (US)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="PLUTO-TV",CNN (UK)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?
-
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif",CNN (HD)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
@@ -129,38 +126,16 @@ http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/LNGJDc4.png",Amar Bangla
-http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/Tp3Kead.png",Enter 10 Bangla
-http://14.199.164.20:4001/play/a0j5/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/HG69Dgb.png",Bangla Talkies
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/LZ7W3Yc.png",Masti
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/wg3N1VT.png",MusicIndia
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/TNk56Ai.png",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg",ATN Music
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/oMXI9Dv.png",GAAN BANGLA HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
-https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
-
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",Masti
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png" tvg-name="9X Tahsan"  group-title="Music",9X Tahsan
-https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.lyngsat.com/logo/tv/num/9x_music.png" tvg-name="9XM Music"  group-title="Music",9XM Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
