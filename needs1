@@ -166,9 +166,6 @@ http://str24.l9574.com/517.stream/index.m3u8
 #EXTINF:-1 group-title="BD IPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRUMDjT7j-NT-dNAugRjoiy0Q9ZLBZEt5vaZLf=s900-c-k-c0x00ffffff-no-rj",Movie Bangla
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BD IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg",The Channel TV
-http://str24.l9574.com/518.stream/index.m3u8
-
 #EXTINF:-1 group-title="BD IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",Voice TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
@@ -183,9 +180,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="BD IPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRQhUrFmjziGNc1PJAn4syX6Brff4tCftcpmfXx=s900-c-k-c0x00ffffff-no-rj",TIMES24 TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/times24tv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="BD IPTV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg",Cumilla 24
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BD IPTV" tvg-logo="https://i.ibb.co/wQVJWSk/Varendra-TV.jpg",Varendra TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
