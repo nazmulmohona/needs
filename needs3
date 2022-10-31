@@ -1,0 +1,5 @@
+EXTM3U
+#EXTINF:-1 group-title="Sports",TSports
+http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=6ebe465b7a6644a711ed2de1d0a988574a867590-d3e16ea64a611bffbad84bb25b762554-1667236658-1667225858
+#EXTINF:-1 group-title="Sports",PTV Sports
+http://cdn.ihub.live:8082/j-PTV/tracks-v1a1/mono.m3u8?token=efaf155c5983517fdadc7187207bbaaa35cfb26a-c85c87f14822fec7a86593defff2c208-1667242640-1667231840
