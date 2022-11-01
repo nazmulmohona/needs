@@ -39,3 +39,5 @@ http://172.16.50.3:8082/TLC_World/tracks-v1a1/mono.m3u8
 http://172.16.50.3:8082/BBC_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dhakaflix",Aljazeera
 http://172.16.50.3:8082/Aljazeera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Dhakaflix",BBC Earth 
+http://172.16.50.3:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
