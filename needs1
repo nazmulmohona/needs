@@ -44,6 +44,40 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="Kazi Tv",Colours Bangla Cinema
+http://208.86.19.13:81/907.stream/index.m3u8
+
+#EXTINF:-1 group-title="Kazi Tv",Star Gold
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Kazi Tv",Zee Cinema
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Kazi Tv",Bangla Talkies
+http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
+
+#EXTINF:-1 group-title="Kazi Tv",Rongeen Tv
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w950685590.m3u8
+
+#EXTINF:-1 group-title="Kazi Tv",Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+
+#EXTINF:-1 group-title="Kazi Tv",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM/9XM-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 group-title="Kazi Tv",Atn Music
+http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Kazi Tv",Gaan Bangla
+http://208.86.19.13:81/612.stream/index.m3u8
+
+#EXTINF:-1 group-title="Kazi Tv",Masti
+http://longstream-03.ajaah.com/PlayBoxTV/Masti/PlayBoxTV/Masti_2/chunks.m3u8
+
+
+
 #EXTINF:-1 group-title="Dhakaflix",Zee Bangla Cinema
 http://172.16.50.3:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dhakaflix",TSports 
