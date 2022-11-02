@@ -73,7 +73,7 @@ http://172.16.50.3:8082/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dhakaflix",Discovery 
 http://172.16.50.3:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dhakaflix",National Geographic 
-http://172.16.50.3:8082/Nat-Geo/tracks-v1a1/mono.m3u8http://172.16.50.3:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
+http://172.16.50.3:8082/Nat-Geo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dhakaflix",TLC
 http://172.16.50.3:8082/TLC_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dhakaflix",BBC World
