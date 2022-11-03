@@ -46,6 +46,22 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 
+#EXTINF:-1 group-title="MTBSL",Masranga Tv
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+
+#EXTINF:-1 group-title="MTBSL",Bangladhole
+http://banglaflix.com.bd:1935/livechannel/bangladhollive/chunklist_w1490142990.m3u8
+
+#EXTINF:-1 group-title="MTBSL",Chayachondo
+http://banglaflix.com.bd:1935/livechannel/chayachondo/chunklist_w1301785946.m3u8
+
+#EXTINF:-1 group-title="MTBSL",Zee Bioskop
+http://210.210.155.35/session/e3c37a7a-5ad3-11ed-aa12-99d0aaebbc28/qwr9ew/s/s32/01.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="Kazi Tv",Colours Bangla Cinema
 http://208.86.19.13:81/907.stream/index.m3u8
 
