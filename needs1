@@ -46,6 +46,26 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 
+#EXTINF:-1 group-title="BD Tv Official ",Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+
+#EXTINF:-1 group-title="BD Tv Official ",Zee Bangla Cinema 
+http://tv.googledrivelinks.com/live.php?c=Zee_Bangla_Cinema&q=250&e=.m3u8
+
+#EXTINF:-1 group-title="BD Tv Official ",Bflix Movies
+http://tv.googledrivelinks.com/live.php?c=Bflix_Movies&q=400&e=.m3u8
+
+
+#EXTINF:-1 group-title="BD Tv Official ",Sony Pix
+http://tv.googledrivelinks.com/live.php?c=Sony_Pix_SD&q=1200&e=.m3u8
+
+
+#EXTINF:-1 group-title="BD Tv Official ",Sony Wah
+http://tv.googledrivelinks.com/live.php?c=Sony_Wah&q=800&e=.m3u8
+
+
+
+
 #EXTINF:-1 group-title="MTBSL",Masranga Tv
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 
