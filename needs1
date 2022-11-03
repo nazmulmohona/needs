@@ -46,6 +46,7 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 
+
 #EXTINF:-1 group-title="BD Tv Official ",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
@@ -62,6 +63,60 @@ http://tv.googledrivelinks.com/live.php?c=Sony_Pix_SD&q=1200&e=.m3u8
 
 #EXTINF:-1 group-title="BD Tv Official ",Sony Wah
 http://tv.googledrivelinks.com/live.php?c=Sony_Wah&q=800&e=.m3u8
+
+#EXTINF:-1 group-title="BD Tv Official ",Sony Max
+http://tv.googledrivelinks.com/live.php?c=Sony_Max_HD&q=600&e=.m3u8
+
+
+#EXTINF:-1 group-title="BD Tv Official ",7X Music
+http://tv.googledrivelinks.com/live.php?c=7X_Music&q=1200&e=.m3u8
+
+#EXTINF:-1 group-title="BD Tv Official ",Sony BBC Earth
+http://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_SD&q=800&e=.m3u8
+
+#EXTINF:-1 group-title="BD Tv Official ",MTV HD Plus
+http://tv.googledrivelinks.com/live.php?c=MTV_HD_Plus&q=800&e=.m3u8
+
+
+#EXTINF:-1 group-title="BD Tv Official ",9X Jalwa
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 group-title="BD Tv Official ",Nick Bangla
+http://tv.googledrivelinks.com/live.php?c=Nick_Bangla&q=600&e=.m3u8
+
+#EXTINF:-1 group-title="BD Tv Official ",Cartoon Network 
+http://tv.googledrivelinks.com/live.php?c=Cartoon_Network_Hindi&q=800&e=.m3u8
+
+#EXTINF:-1 group-title="BD Tv Official ",VH1
+http://tv.googledrivelinks.com/live.php?c=VH1&q=800&e=.m3u8
+
+
+#EXTINF:-1 group-title="BD Tv Official ",Kalaignar
+http://tv.googledrivelinks.com/live.php?c=Kalaignar_TV&q=1200&e=.m3u8
+
+
+#EXTINF:-1 group-title="BD Tv Official ",Sony HD
+http://tv.googledrivelinks.com/live.php?c=Sony_HD&q=800&e=.m3u8
+
+
+#EXTINF:-1 group-title="BD Tv Official ",And Tv
+http://tv.googledrivelinks.com/live.php?c=And_TV_HD&q=800&e=.m3u8
+
+#EXTINF:-1 group-title="BD Tv Official ",Zee Tv
+http://tv.googledrivelinks.com/live.php?c=Zee_TV_HD&q=800&e=.m3u8
+
+
+#EXTINF:-1 group-title="BD Tv Official ",Animal Planet
+http://tv.googledrivelinks.com/live.php?c=Animal_Planet_Hindi&q=800&e=.m3u8
+
+#EXTINF:-1 group-title="BD Tv Official ",Colours
+http://tv.googledrivelinks.com/live.php?c=Colors_HD&q=800&e=.m3u8
+
+#EXTINF:-1 group-title="BD Tv Official ",Sony SAB
+http://tv.googledrivelinks.com/live.php?c=Sony_SAB_HD&q=800&e=.m3u8
+
+
+
 
 
 
