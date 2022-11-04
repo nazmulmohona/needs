@@ -119,6 +119,26 @@ http://tv.googledrivelinks.com/live.php?c=Sony_SAB_HD&q=800&e=.m3u8
 
 
 
+#EXTINF:-1 group-title="Sky Stream", Jalsha Movies
+http://str24.l9574.com/617.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sky Stream", Arirang Tv
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
+
+
+#EXTINF:-1 group-title="Sky Stream", Enter 10 Movies
+http://karostream.tulix.tv/ENTER10MOVIES/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sky Stream", Zee Bioscope 
+http://210.210.155.35/session/1e1f0320-4e9f-11ec-9284-bcd3a4acc017/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1 group-title="Sky Stream", Rock
+http://45.126.83.51/session/a28d1074-4ee6-11ec-a221-b578bfa0d472/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="Sky Stream", Thrill
+http://45.126.83.51/session/d9531976-460a-11ec-b7d1-86f9ab448c72/qwr9ew/s/s34/02.m3u8
+
+
 
 
 #EXTINF:-1 group-title="MTBSL",Masranga Tv
