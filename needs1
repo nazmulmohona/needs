@@ -42,7 +42,8 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-
+#EXTINF:-1 group-title="News" tvg-logo="",France 24
+http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/fr24.stream/chunks.m3u8
 
 
 
