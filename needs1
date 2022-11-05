@@ -32,7 +32,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://static.dw.com/image/47222913_401.png",DW
 http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
 
-
 #EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6.jpg",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
@@ -45,6 +44,106 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",France 24
 http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/fr24.stream/chunks.m3u8
 
+
+
+
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Bangla Tv
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Ekattor Tv
+http://208.86.19.13:81/675.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Btv
+http://208.86.19.13:81/665.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Atn Music
+http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Channel I
+http://208.86.19.13:81/653.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",NTV
+http://208.86.19.13:81/652.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Banglavision 
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Duronto Tv
+http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Independent Tv
+http://208.86.19.13:81/519.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Atn Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Channel 24
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",My Tv
+http://208.86.19.13:81/651.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Atn Islamic Tv
+http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Satv
+http://208.86.19.13:81/613.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Gaan Bangla
+http://208.86.19.13:81/612.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Mohona Tv
+http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Deshe Bideshe
+http://208.86.19.13:81/505.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Iqra Bangla
+http://208.86.19.13:81/507.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Desh Tv
+http://208.86.19.13:81/661.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Ananda Tv
+http://208.86.19.13:81/671.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Asian Tv
+http://208.86.19.13:81/672.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Atn news
+http://208.86.19.13:81/663.stream/tracks-1,2/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",IB Tv Usa
+http://208.86.19.13:81/509.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Nandan
+http://nandansyst.com/hls/nandan.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Peace Tv
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Quran Tv
+http://m.live.net.sa:1935/live/quran/chunklist_w1932438352.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",52 Tv
+http://208.86.19.13:81/503.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Colours Bangla
+http://208.86.19.13:81/904.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Khusboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo_540p.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Colours Bangla Cinema
+http://208.86.19.13:81/907.stream/index.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",KK Tv
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 group-title="Stream Bangla" tvg-logo="",Fashion Tv
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 
 
