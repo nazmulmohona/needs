@@ -48,6 +48,84 @@ http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
 
+#EXTINF:-1 group-title="Dhakaflix-2",Zee Bangla Cinema
+http://172.16.50.2:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",TSports 
+http://172.16.50.2:8082/T-Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Gazi Tv
+http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",PTV Sports
+http://172.16.50.2:8082/PTV-Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Ten Sports
+http://172.16.50.2:8082/Ten-Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Star Sports 1
+http://172.16.50.2:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Star Sports 2
+http://172.16.50.2:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Star Select 1
+http://172.16.50.2:8082/Star-Select-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Star Select 2
+http://172.16.50.2:8082/Star-Select-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",ATN News
+http://172.16.50.2:8082/Atn-News/tracks-v1a1/mono.m3u8
+http://172.16.50.2:8082/Atn-News/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Channel I
+http://172.16.50.2:8082/Channel-i/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",And Pictures
+http://172.16.50.2:8082/And-Pictures/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Star Gold
+http://172.16.50.2:8082/StarGold/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Discovery 
+http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",National Geographic 
+http://172.16.50.2:8082/Nat-Geo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",TLC
+http://172.16.50.2:8082/TLC_World/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",BBC World
+http://172.16.50.2:8082/BBC_World/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Aljazeera
+http://172.16.50.2:8082/Aljazeera/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",BBC Earth 
+http://172.16.50.2:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Star Jalsha
+http://172.16.50.2:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Zee Bangla
+http://172.16.50.2:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Colours 
+http://172.16.50.2:8082/colorsindia/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Dhakaflix-2",Colours Bangla 
+http://172.16.50.2:8082/colorsbangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Dhakaflix-2",Sony Ten 1
+http://172.16.50.2:8082/Ten1/tracks-v1a1/mono.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="",Rtv
 https://youtu.be/oi93n5KHT-I
 
