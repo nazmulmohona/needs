@@ -138,68 +138,69 @@ https://livess.jagobd.com.bd/live-orgin/boulive.stream/chunks.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/1106812716210184192/86GVZgtp_400x400.jpg" tvg-name="Times 24"  group-title="JAGO BD",Times 24
 https://livess.jagobd.com.bd/live-orgin/times24tv.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",AB TV USA
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/NMJqG2PC/abtv-logo.png" group-title="JAGO BD",AB TV USA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/abtvusa.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",AMAR BANGLA
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/PrWrJTPW/58Mkc4.png"  group-title="JAGO BD",AMAR BANGLA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",B24C
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/XJyLT5WB/logo-transparent.png"  group-title="JAGO BD",B24C
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",BISWA BANGLA TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/rmYFhLRh/cropped-cropped-BBLogo-1.jpg"  group-title="JAGO BD",BISWA BANGLA TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",CAN BANGLA
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/RFYN2h9K/download.jpg"  group-title="JAGO BD",CAN BANGLA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/canbanglatv.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",CHANNEL EUROPE
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/d3qLCjpr/logo-chenl.png"  group-title="JAGO BD",CHANNEL EUROPE
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",Colosal TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo=" "  group-title="JAGO BD",Colosal TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",Deen TV UK
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/JnsQVkNC/image.jpg"  group-title="JAGO BD",Deen TV UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",FREEDOM
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo=" "  group-title="JAGO BD",FREEDOM
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/uatv.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",ION TV UK
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/yYWQZcHM/logo-649970fdd9881.png"  group-title="JAGO BD",ION TV UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",IQRA BANGLA
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/JhtB7Fnf/58Krth.png"  group-title="JAGO BD",IQRA BANGLA
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",JonmoBhumi TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/nrLJ6PYr/Jonmo-Bhumi-TV-tvtolive-com.jpg"  group-title="JAGO BD",JonmoBhumi TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",MILLENNIUM TV 24 NEWS
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/HxV3F82G/logo-new-24-02.png"  group-title="JAGO BD",MILLENNIUM TV 24 NEWS
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",MILLENNIUM TV USA
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/jjTCS9kv/millenniumtv.jpg"  group-title="JAGO BD",MILLENNIUM TV USA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",NTV EUROPE
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png"  group-title="JAGO BD",NTV EUROPE
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",THE CHANNEL TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/VN425bZV/image.jpg"  group-title="JAGO BD",THE CHANNEL TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",TIME TELEVISION
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/52D9qbLp/58KYg4.jpg"  group-title="JAGO BD",TIME TELEVISION
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",TV ONE
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/tTbKmBFc/TV-ONE.png"  group-title="JAGO BD",TV ONE
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",V2BEAT TV Europe
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/GhkxJBpQ/image.png"  group-title="JAGO BD",V2BEAT TV Europe
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/v2beattv.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",Varendra TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/W3SsCNmg/Varendra-TV.jpg"  group-title="JAGO BD",Varendra TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/varendratv.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" group-title="JAGO BD",Voice of America
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/mZ1HLV9q/voa-300x200.jpg"   group-title="JAGO BD",Voice of America
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voa.stream/chunks.m3u8
+
 
 
 
@@ -2334,3 +2335,4 @@ https://archive.org/download/SACEFIP123/Salaar%20Cease%20Fire%20-%20Part%201%20%
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/jS9P3QFw/Picsart-23-08-24-23-34-59-939.jpg",Surongo (2023)
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_1.m3u8
+
