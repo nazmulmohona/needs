@@ -156,13 +156,13 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/d3qLCjpr/logo-chenl.png"  group-title="JAGO BD",CHANNEL EUROPE
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo=" "  group-title="JAGO BD",Colosal TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/8CpJQpPN/Colosal-TV.jpg"  group-title="JAGO BD",Colosal TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/chunks.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/JnsQVkNC/image.jpg"  group-title="JAGO BD",Deen TV UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo=" "  group-title="JAGO BD",FREEDOM
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://uatv.ua/wp-content/uploads/2022/09/logo-1.jpg"  group-title="JAGO BD",FREEDOM
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/uatv.stream/chunks.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/yYWQZcHM/logo-649970fdd9881.png"  group-title="JAGO BD",ION TV UK
@@ -2323,16 +2323,4 @@ http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg" group-title="Palki.tv", WION
 http://cdn01.palki.tv/live/WION-M/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/GXApkdu.jpg",Dunki (2023)
-https://archive.org/download/du23_20231229/Dunki%20%282023%29%20Hindi%20v2%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Audio%20-%20MP3%20-%201.2GB.mkv
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/nrPq84hP/Mohanagar-2023.jpg",Mohanagar (2023)
-https://www.googleapis.com/drive/v3/files/1GuhFiANq6NjR2XvnqlIs4nSYAmQkwp60?alt=media&key=AIzaSyAfr1h09TthDyHoNKMIO-hd2pFsdvAnn_w
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/MXnNOX1.jpg",Salaar Part 1- Ceasefire (2023)
-https://archive.org/download/SACEFIP123/Salaar%20Cease%20Fire%20-%20Part%201%20%282023%29%20Hindi%20v3%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Audio%20-%20MP3%20-%201.4GB.mkv
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/jS9P3QFw/Picsart-23-08-24-23-34-59-939.jpg",Surongo (2023)
-https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_1.m3u8
 
