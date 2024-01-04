@@ -135,7 +135,7 @@ https://bdtubelive.xyz/bdix.m3u8?id=sony-pix-live
 #EXTINF:-1 group-title="Bioscope" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_sonic_us.png",Sonic
 https://bdtubelive.xyz/bdix.m3u8?id=sonic
 
-#EXTINF:-1 group-title="Bioscope" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick-jr-us.svg",Nick Jr.
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-2009-present.png",Nick Jr.
 https://bdtubelive.xyz/bdix.m3u8?id=nick-junior
 
 #EXTINF:-1 group-title="Bioscope" tvg-logo="https://i.postimg.cc/DwxdYxpm/SONY-YAY.png",Sony Yay 
@@ -162,7 +162,7 @@ https://bdtubelive.xyz/bdix.m3u8?id=history-tv
 #EXTINF:-1 group-title="Bioscope" tvg-logo="https://i.postimg.cc/VkYLdrkK/z6YpAkF.png",Sony BBC Earth HD 
 https://bdtubelive.xyz/bdix.m3u8?id=bbc-earth-hd-live
 
-#EXTINF:-1 group-title="Bioscope" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",Mtv
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://logowik.com/content/uploads/images/t_637_mtv.jpg",Mtv
 https://bdtubelive.xyz/bdix.m3u8?id=mtv
 
 #EXTINF:-1 group-title="Bioscope" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_beats_in.png",Mtv Beats
@@ -174,7 +174,7 @@ https://bdtubelive.xyz/bdix.m3u8?id=sudi-quran
 #EXTINF:-1 group-title="Bioscope" tvg-logo="https://www.lyngsat.com/logo/tv/ii/i_film_ir_english.png",i film
 https://bdtubelive.xyz/bdix.m3u8?id=i-film-english
 
-#EXTINF:-1 group-title="Bioscope" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cna-sg.svg",CNA
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://branditechture.agency/brand-logos/wp-content/uploads/2023/05/CNA.png",CNA
 https://bdtubelive.xyz/bdix.m3u8?id=channel-news-asia
 
 
