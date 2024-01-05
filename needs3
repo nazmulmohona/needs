@@ -2546,3 +2546,55 @@ http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg" group-title="Palki.tv", WION
 http://cdn01.palki.tv/live/WION-M/index.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png" group-title="Documentary", Discovery HD Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png" group-title="Documentary", Discovery HD English 
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png" group-title="Documentary", Discovery HD Hindi
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx1PS8kS/XBz4I65.png" group-title="Documentary", Discovery Science 
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5mfj9ZS/Animal-Planet-HD.png" group-title="Documentary", Animal Planet HD
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sf7nwKp0/6tkj9BS.jpg" group-title="Documentary", TLC 
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqbG8DVf/download-4.jpg" group-title="Documentary", Discovery Turbo
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png" group-title="Documentary", Discovery Investigation 
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1280px-HGTV_logo.png" group-title="Documentary", HGTV
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png" group-title="Documentary", Food Network
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhzhstL2/swM1L4e.png" group-title="Kids", Discovery Kids Hindi
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://te.legra.ph/file/ef378060d0279dbbf2024.jpg" group-title="Kids",Animax
+https://kingkohli.pages.dev/Play/Kid/Animax.m3u8
+#EXTINF:-1 tvg-logo="https://te.legra.ph/file/6b8910e5b6c88b0bcfb1e.jpg" group-title="Denver KIDS PACK",Chinttu TV
+https://kingkohli.pages.dev/Play/Kid/ChuttiTV.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRvcIKZHrAQWPBYj4gmqb42jnU9yP1m2omg&usqp=CAU" group-title="Denver KIDS PACK",Discovery Kids2
+https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
+#EXTINF:-1 tvg-logo="https://te.legra.ph/file/5c883e1080e829997cf5d.jpg" group-title="Denver KIDS PACK",Disney HD
+https://kingkohli.pages.dev/Play/DisneyHD_Alpha_index.m3u8
+#EXTINF:-1 tvg-logo="https://te.legra.ph/file/5c883e1080e829997cf5d.jpg" group-title="Denver KIDS PACK",Disney HD
+https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8
+#EXTINF:-1 tvg-logo="https://te.legra.ph/file/a56b504e91219a0121d8b.jpg" group-title="Denver KIDS PACK",Hungama TV
+https://kingkohli.pages.dev/Play/Kid/HungamaTV.m3u8
+#EXTINF:-1 tvg-logo="https://te.legra.ph/file/a56b504e91219a0121d8b.jpg" group-title="Denver KIDS PACK",Hungama TV King
+https://kingkohli.pages.dev/Play/Kid/HungamaTV2.m3u8
+#EXTINF:-1 tvg-logo="https://te.legra.ph/file/a56b504e91219a0121d8b.jpg" group-title="Denver KIDS PACK",Hungama Hw+
+https://cuyc.short.gy/Denver_HungamaTV_Link.m3u
+#EXTINF:-1 tvg-logo="https://te.legra.ph/file/a56b504e91219a0121d8b.jpg" group-title="Denver KIDS PACK",Hungama Tamil
+https://kingkohli.pages.dev/Play/HungamaTamil_Watch_index.m3u8
+
+
