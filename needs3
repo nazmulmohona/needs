@@ -1,5 +1,23 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://i.postimg.cc/HkD9GG3Z/2023-Nick-3-D.png",Nickelodeon
+https://bdtubelive.xyz/bdix.m3u8?id=nickelodeon
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://i.postimg.cc/VkYLdrkK/z6YpAkF.png",BBC Earth Hd
+https://bdtubelive.xyz/bdix.m3u8?id=bbc-earth-hd-live
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://i.postimg.cc/JhMgPGJJ/9XvvPo9.png",DW News
+https://bdtubelive.xyz/bdix.m3u8?id=dw-live
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://i.postimg.cc/qRYKDKdN/xx6uOhZ.png",Al-Jazeera
+https://bdtubelive.xyz/bdix.m3u8?id=al-jazeera-english-live
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://i.postimg.cc/8zCRmK80/Atnnews.jpg",Atn News
+https://bdtubelive.xyz/bdix.m3u8?id=atn-news
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png",Nexus Television
+https://bdtubelive.xyz/bdix.m3u8?id=nexus-television-hd
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg",Movie Bangla Music
+https://bdtubelive.xyz/bdix.m3u8?id=movie-bangla-music
+
+
+
 #EXTINF:-1 group-title="Bioscope" tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png",BTV 
 https://bdtubelive.xyz/bdix.m3u8?id=btv-hd
 
