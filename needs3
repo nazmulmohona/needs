@@ -27,17 +27,20 @@ https://bdtubelive.xyz/bdix.m3u8?id=btv-world
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Xt3tf4/330px-Sangsad-Television-Emblem-svg.png" group-title="Bioscope", Sangsad TV
 https://bdtubelive.xyz/bdix.m3u8?id=sangsad-tv
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhMgPGJJ/9XvvPo9.png" group-title="Bioscope", DW News
-https://bdtubelive.xyz/bdix.m3u8?id=dw-live
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://i.postimg.cc/8c9Y58zZ/1200px-Ekattor-TV-logo-svg.png",Ekattor TV 
+https://bdtubelive.xyz/bdix.m3u8?id=ekattur-tv
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRYKDKdN/xx6uOhZ.png" group-title="Bioscope", Al-Jazeera
-https://bdtubelive.xyz/bdix.m3u8?id=al-jazeera-english-live
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png",Independent TV 
+https://bdtubelive.xyz/bdix.m3u8?id=independent-tv
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="Bioscope", Nexus Television
-https://bdtubelive.xyz/bdix.m3u8?id=nexus-television-hd
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://i.postimg.cc/02V56dBr/ds3aThu.jpg",Jamuna TV 
+https://bdtubelive.xyz/bdix.m3u8?id=jamuna-tv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="Bioscope", Movie Bangla Music
-https://bdtubelive.xyz/bdix.m3u8?id=movie-bangla-music
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_JAGO BD.png",Somoy Tv
+https://bdtubelive.xyz/bdix.m3u8?id=somoy-tv
+
+#EXTINF:-1 group-title="Bioscope" tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_JAGO BD_bd.png",DBC News
+https://bdtubelive.xyz/bdix.m3u8?id=dbc-news
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Bioscope", Channel 24
 https://bdtubelive.xyz/bdix.m3u8?id=channel-24
