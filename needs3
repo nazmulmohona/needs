@@ -1,5 +1,713 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84f1f9b0-d134-497e-b1bf-53058d4e0a85/326ced06-9a22-41c4-b70e-1a77024b3c95.png?width=300" group-title="Bongo", Somoy TV
+https://bdsajib112.000webhostapp.com/api/bongo.php?c=somoy-tv
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/16f10c2a-e4c3-4214-bad5-8dc791343cc4/7bd1f69c-df79-4c98-a82a-670835461c60.png?width=400" group-title="Bongo", Movie Bangla
+https://bdsajib112.000webhostapp.com/api/bongo.php?c=movie-bangla-8827458fcaf5
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a459d0db-8ef7-45d0-8e24-3422faceef4d/d301f2a8-e824-4ca4-8607-5a5c775b8d4f.png?width=300" group-title="Bongo", Nexus Television HD
+https://bdsajib112.000webhostapp.com/api/bongo.php?c=nexus-tv
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/425f4cb8-edd6-482b-a49e-85528f60225d/eaf3e854-9d2d-4d0d-aa74-ff49c8b353de.png?width=300" group-title="Bongo", DBC News
+https://bdsajib112.000webhostapp.com/api/bongo.php?c=dbc-news
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/88b130c8-0256-4247-97fe-11ec72132f15/e83a109a-b050-4ff9-917d-661be1c3d82b.png?width=300" group-title="Bongo", Zee Bangla
+https://bdsajib112.000webhostapp.com/api/bongo.php?c=zee-bangla
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2e82d1f3-2483-4a05-ac7c-4fe78b2d7f0d/6e91a298-8191-4997-aabc-b31406073340.png?width=400" group-title="Bongo", Zee Bangla Cinema
+https://bdsajib112.000webhostapp.com/api/bioscope.php?id=zee-classic
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/1c7e5a1d-91d1-4184-a112-b91043da01b3/0e97fe3d-78a2-4967-a32c-e2f4876cc856.png?width=400" group-title="Bongo", & Pictures HD
+https://bdsajib112.000webhostapp.com/api/bongo.php?c=pictures-hd
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/43440b2a-0045-41a5-9ab6-76c861cec682/0f8e8d3e-cb23-419b-8b82-c15f9c5c9a81.png?width=400" group-title="Bongo", 9x JALWA
+https://bdsajib112.000webhostapp.com/api/bioscope.php?id=9x-jalwa-1
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4ef30b76-32e8-48ab-81fc-5c7d641e5209/e7b4ef73-f718-4efe-931c-58f7f5cc87a3.png?width=300" group-title="Bongo", Zee Cinema HD
+https://bdsajib112.000webhostapp.com/api/bongo.php?c=zee-cinema-hd
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/8fa76d62-7feb-42ee-b5b9-07dda654a062/f0412fb5-a3fb-4e06-a3f8-b44851521f76.png?width=300" group-title="Bongo", Zee Bollywood
+https://bdsajib112.000webhostapp.com/api/bongo.php?c=zee-bollywood
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/5c611e4f-aa8d-4e46-8242-ff76a6fec77a/b0f5393e-3fc1-427d-ba33-9429d7298a9b.png?width=400" group-title="Bongo", Zee Anmol
+https://bdsajib112.000webhostapp.com/api/bongo.php?c=zee-anmol
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2b43c88f-23c6-4168-9f77-f1065775df0a/8c8f27da-ca34-4e9a-921e-a28fb03b8d41.png?width=400" group-title="Bongo", Zee Action
+https://bdsajib112.000webhostapp.com/api/bongo.php?c=zee-action
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e8ffd2a5-80fe-480b-833d-173da7830887/3b6e8661-1f9b-4e4e-9189-e4d7e77d033e.png?width=400" group-title="Bongo", Zing
+https://bdsajib112.000webhostapp.com/api/bongo.php?c=zing
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7ff515b0-8ac5-4fe4-853b-ebbc5cc5f947/430ba6a7-1018-47d5-a6eb-b1335e6aa6bd.png?width=400" group-title="Bongo", Zee TV HD
+https://bdsajib112.000webhostapp.com/api/bongo.php?c=zee-tv-hd
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/56b881f1-66b7-4621-a681-2856824041e8/0e29641a-658a-4a87-b9b6-58cdbb1fef75.png?width=400" group-title="Bongo", & TV HD
+https://bdsajib112.000webhostapp.com/api/bongo.php?c=tv-hd
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" group-title="Ayna OTT", BTV National
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=1&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" group-title="Ayna OTT", BTV World
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=2&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed65f2c1-604f-4858-acd5-066fbd00b8ce_180x180_3cbdd15a-53f2-463c-a082-d1e9b1ee74aa.png" group-title="Ayna OTT", Sangshad TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=3&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3726c298-6651-4139-a505-97fe9ee96430_180x180_47fc05ff-db30-4653-b445-57156643f9ce.png" group-title="Ayna OTT", BTV Chattogram
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=4&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png" group-title="Ayna OTT", Bangla Vision
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=5&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png" group-title="Ayna OTT", Channel I
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=6&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" group-title="Ayna OTT", Ekushey TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=7&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7624c47-6598-4b68-9833-7102579ab0e0_180x180_a9967873-d8e5-4ce9-965c-a353761dc150.png" group-title="Ayna OTT", NTV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=8&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png" group-title="Ayna OTT", ATN Bangla
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=9&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png" group-title="Ayna OTT", Boishakhi TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=10&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1426078c-f33c-4451-b2e3-73f6a6a5787e_180x180_45a97962-9bbb-4b3b-b589-6012ecd68599.png" group-title="Ayna OTT", Maasranga TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=11&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1b157d-c68d-4e28-99b3-4e73ce0a6390_180x180_ddc72b39-a2e7-454e-b853-7eb9cd8a6729.png" group-title="Ayna OTT", Desh TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=12&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png" group-title="Ayna OTT", My TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=13&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a41f0388-395e-47ec-9db8-477a3fd09d05_180x180_95c38a1d-7287-4c2d-83fe-e2536874e546.png" group-title="Ayna OTT", ATN News
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=14&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/358c5626-ce3c-4788-ad82-be5c77596b88_180x180_47579c04-9261-4973-b128-310e87592def.png" group-title="Ayna OTT", Mohona TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=15&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cedb767c-a1df-4c51-b159-684bc77f03aa_180x180_fbdee68d-a9aa-4cd7-9302-7f30fca5158d.png" group-title="Ayna OTT", Bijoy TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=16&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2b7e4021-ff6b-4fb3-8a6e-36ff4388086d_180x180_8e4e88aa-10c0-4c91-8465-9c2ddad8b6e8.png" group-title="Ayna OTT", Somoy News TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=17&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" group-title="Ayna OTT", Gazi TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=18&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" group-title="Ayna OTT", Gazi TV HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=19&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9904a2b8-33ea-4fb8-88de-9d6563252bf9_180x180_43989ac5-a3a3-48a4-b628-de8f0815a8fc.png" group-title="Ayna OTT", Channel 9
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=20&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1a6ad6ed-400c-45a2-91e0-c98e36546b6b_180x180_29254c7a-99b4-4c0a-b861-3cbebaadfcfc.png" group-title="Ayna OTT", Channel 24
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=21&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png" group-title="Ayna OTT", Gaan Bangla
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=22&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc95386d-f418-4c84-bd9f-7d1442fba3f2_180x180_f4cf8821-b1d1-44c5-b35f-c95d1e054aac.png" group-title="Ayna OTT", Ekattor TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=23&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="Ayna OTT", Asian TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=24&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/84a0fb8c-85cf-4d12-8504-8f9050437def_180x180_dbfdc900-49fd-4129-9575-ad0f08105fd4.png" group-title="Ayna OTT", SA TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=25&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f9214b86-4bb5-47e9-9488-adb2bd14bf27_180x180_8b1db7bb-4597-4257-8846-567df3961cc2.png" group-title="Ayna OTT", Jamuna TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=26&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" group-title="Ayna OTT", T Sports HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=27&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" group-title="Ayna OTT", T Sports
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=28&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f71d343e-e574-4599-bed6-f622c2a6b741_180x180_0fb5d763-281f-4ed3-8c05-62aa33dfd0c2.png" group-title="Ayna OTT", DBC News
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=29&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f31caca9-3389-4331-a693-ac83c42b4a35_180x180_51796aab-e2a7-4290-b7b3-f0c3870de87a.png" group-title="Ayna OTT", News 24
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=30&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e44d6140-a2c6-4528-a7d3-09d0a5337423_180x180_89fc9e6f-b77b-4bde-90f8-865c243422d6.png" group-title="Ayna OTT", Bangla TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=31&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0f3e0290-14e1-44ae-9cec-fcd95f23aa41_180x180_ba9a1b16-535c-4c1d-9ebf-2c94df27d585.png" group-title="Ayna OTT", Nexus TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=32&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/031f5666-bb13-46a0-abed-78b9122d5e76_180x180_bf19e14b-eea7-4d4b-a0b2-a3ba76d2944c.png" group-title="Ayna OTT", Ananda TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=33&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ef7244ea-1f07-41bb-82e8-d81a2d12ac81_180x180_global-tv.jpg" group-title="Ayna OTT", Global TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=34&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/48e398dd-50d4-40b0-8e26-4a5170faf8c6_180x180_greentv.png" group-title="Ayna OTT", Green TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=35&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/155cef49-2209-474b-b882-2618ab44a109_180x180_duronto.png" group-title="Ayna OTT", Duronto TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=36&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/39b2a216-5975-4f18-99c1-8404a28a046c_180x180_iqrabangla.jpg" group-title="Ayna OTT", IQRA Bangla TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=37&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/89ad8138-b397-4f95-831a-4b2e77e7843c_180x180_songit-bangla.jpg" group-title="Ayna OTT", Sangeet Bangla
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=38&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="Ayna OTT", B4U Music
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=39&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bf319d98-d1a1-4df4-8f42-ee33b342c0d9_180x180_Ekhon-tv.jpg" group-title="Ayna OTT", Ekhon TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=40&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9d0d7717-911c-4a9f-b90d-ed4ae323d8c8_180x180_medibiztv.jpg" group-title="Ayna OTT", Medibiz TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=41&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="Ayna OTT", Star Sports 1 HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=42&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="Ayna OTT", Star Sports 2 HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=43&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg" group-title="Ayna OTT", History Channel
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=44&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22a8244f-9923-497a-a626-768cdd2d4d3c_180x180_sports-18.jpg" group-title="Ayna OTT", Sports 18
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=45&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/33a51469-decc-4dfc-bc47-3542fdc68e63_180x180_dd-sports-logo.jpg" group-title="Ayna OTT", DD Sports
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=46&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" group-title="Ayna OTT", PTV Sports
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=47&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6026347a-4c2a-455b-b69a-f637140551a8_180x180_Star_Sports_Select_1.jpg" group-title="Ayna OTT", Star Sport Select 1
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=48&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/602dbebc-c520-44d4-ae57-e4459589a4f9_180x180_Star_Sports_Select_2.jpg" group-title="Ayna OTT", Star Sport Select 2
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=49&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed9ba281-9ef1-4b8d-bcac-d769c8f9b113_180x180_m-tv.jpg" group-title="Ayna OTT", MTV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=50&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c12281c3-5258-4cce-a634-ef111acc28ee_180x180_geo-super.jpg" group-title="Ayna OTT", Geo Super
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=51&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d17be1e7-11c4-43a1-867b-7dd28f5b2206_180x180_discovery_turbo.jpg" group-title="Ayna OTT", Discovery Turbo
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=53&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dcf6b676-d031-494b-a9e7-ab2b6cda341b_180x180_discovery_science.jpg" group-title="Ayna OTT", Discovery Science
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=54&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" group-title="Ayna OTT", Animal Planet HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=55&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bedeba5-f94a-40a8-8bbc-06e57e0573ec_180x180_id_hd_source.jpg" group-title="Ayna OTT", Investigation Discovery HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=56&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22141bbd-fe65-49fe-891c-a34ec424b13a_180x180_tlc_hd_source.jpg" group-title="Ayna OTT", TLC HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=57&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" group-title="Ayna OTT", Discovery HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=58&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1ffb3fa3-7270-45e1-8cf7-4542db428670_180x180_Aljazeera.jpg" group-title="Ayna OTT", Aljazeera News
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=59&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/87699afe-b92e-4e1b-bd94-dbafed7906cf_180x180_DWEnglishHD.jpg" group-title="Ayna OTT", DW
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=60&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8250eb1a-8fad-49c4-aa58-f4ade024f8ac_180x180_NHK.jpg" group-title="Ayna OTT", NHK World Japan
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=61&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3c1364d9-36a7-4664-8a3a-f13c5a7db212_180x180_TRT.jpg" group-title="Ayna OTT", TRT World
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=62&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b9b1fb7d-7434-44e1-b416-1dcd7025c76f_180x180_cnn.jpeg" group-title="Ayna OTT", CNN
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=63&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a4e2e38d-6a60-409e-9419-40b9fd97e29a_180x180_bbcnews.jpeg" group-title="Ayna OTT", BBC News
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=64&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" group-title="Ayna OTT", Cartoon Network
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=65&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg" group-title="Ayna OTT", PBS Kids
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=66&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e11861ab-2e48-4e53-a2ee-3c8e783fd73e_180x180_Wion.jpg" group-title="Ayna OTT", WION
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=67&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg" group-title="Ayna OTT", A Sports
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=68&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ca2ecac1-7447-46fe-9921-e6c3e37a8dc9_180x180_hbo.jpg" group-title="Ayna OTT", HBO
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=69&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg" group-title="Ayna OTT", Sony YAY
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=70&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1071c4ad-c6ef-4f9c-9f09-8f658bbae1ad_180x180_SonyMAXHD.jpg" group-title="Ayna OTT", Sony Max HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=71&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0fe77088-37eb-4a06-b2e3-f62bf2e7103c_180x180_BBCEarth.jpg" group-title="Ayna OTT", BBC Earth
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=72&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/82e072ad-ce59-466f-a0d4-5678d1b8ffac_180x180_SonyHD.jpg" group-title="Ayna OTT", Sony HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=73&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0e11c1c4-7fdf-4e97-8826-f62df600ed29_180x180_SonyPIX.jpg" group-title="Ayna OTT", Sony Pix HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=74&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/62bf69b2-7839-4177-a3a8-7002505913e9_180x180_SonyBBCEarth.jpg" group-title="Ayna OTT", BBC Earth HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=75&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c9354075-e266-4cde-981a-cb4e56e26702_180x180_SonyTenHD.jpg" group-title="Ayna OTT", Sony Ten 1 HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=76&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/084d55b0-a736-4bbc-8bd4-d68c0067298e_180x180_SonySABHD.jpg" group-title="Ayna OTT", Sony Sab HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=77&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/074ede35-9396-4470-a0cd-e350f5e351f3_180x180_SonyWah.jpg" group-title="Ayna OTT", Sony WAH
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=78&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a3610f08-d1c2-4881-9d00-d19abdf5e60d_180x180_Ten3HD.jpg" group-title="Ayna OTT", Sony Ten 3 HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=79&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/868feca0-47ae-4d52-819a-2ae110a6dbe2_180x180_SabSD.jpg" group-title="Ayna OTT", Sony Sab SD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=80&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f8138214-ceeb-438e-8288-39ebbcbf1944_180x180_SonySD.jpeg" group-title="Ayna OTT", Sony SD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=81&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b4f9d6f6-50bb-44ca-8b33-b4a744c796eb_180x180_SonyMAx2.jpg" group-title="Ayna OTT", Sony Max 2
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=82&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ff1a8370-4477-43ee-8ad0-15caa7e5bf89_180x180_SonySix.jpeg" group-title="Ayna OTT", Sony Six
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=83&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/de2d2947-554f-4c31-932f-de74ae027c80_180x180_Ten1.jpg" group-title="Ayna OTT", Sony Ten 1
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=84&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed43b998-2e56-48bb-8d0e-f81e47d87d7d_180x180_Ten3.jpg" group-title="Ayna OTT", Sony Ten 3
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=85&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5aff8a6a-d664-4292-b4e8-8319e42f77a6_180x180_sony-8.jpg" group-title="Ayna OTT", Sony Aath
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=86&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8cbce42b-5a4f-4283-a9c5-6afb64d21824_180x180_sony-pal.jpg" group-title="Ayna OTT", Sony Pal
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=87&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b0d554a9-c9ab-42a5-b208-3105872671b9_180x180_Ten-2.jpg" group-title="Ayna OTT", Sony Ten 2
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=88&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/27cc1d7d-db82-480c-82b2-8d033bcbe26f_180x180_sony-pix.jpg" group-title="Ayna OTT", Sony Pix
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=89&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b04f3f89-0925-4929-98a9-3da5e0d6aaef_180x180_sony-max.jpg" group-title="Ayna OTT", SET Max
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=90&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c6cb499c-0f43-4d05-9d25-b9bc25e0c0d9_180x180_sony-six.jpg" group-title="Ayna OTT", Sony Six HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=91&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f17b81cb-6339-47a4-9492-71cb68af4be2_180x180_ten-2-hd.jpg" group-title="Ayna OTT", Ten 2 HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=92&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1e80c84f-32e0-403f-b6fc-3e60c37846d2_180x180_andpictureshd.jpg" group-title="Ayna OTT", And Pictures HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=93&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/09bff4ab-934e-4b47-bacd-4c24ffaf3047_180x180_zee-bangla-hd.jpg" group-title="Ayna OTT", ZEE Bangla HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=94&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3b07b67b-8523-4de4-8794-a017129c833e_180x180_zee_tv_HD.jpg" group-title="Ayna OTT", Zee TV HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=95&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/14cdd9d1-e5f3-4c14-80ef-320d6b21591a_180x180_ZeeCafeHD.jpg" group-title="Ayna OTT", Zee Cafe HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=96&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" group-title="Ayna OTT", ZEE 24 Ghanta
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=98&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/97fd3820-fe52-40f2-abab-342b55524a15_180x180_zing.jpg" group-title="Ayna OTT", Zing
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=99&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d60bc970-1f75-4039-b27a-2312650ff03c_180x180_zee-news.jpg" group-title="Ayna OTT", ZEE News
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=100&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fdbce76d-b5f0-42c1-b2e6-63b1c22f0d68_180x180_andtv.jpg" group-title="Ayna OTT", And TV HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=102&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/eac1d5e7-1738-46e5-b5c1-16afe3b579a6_180x180_ZeeCinemaHD.jpg" group-title="Ayna OTT", Zee Cinema HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=103&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/92a89f33-066e-40b2-b931-7d8b0c211997_180x180_zee-bangla-logo.jpg" group-title="Ayna OTT", Zee Bangla
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=104&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7c428efd-1f33-4982-9717-c74e123dcfb3_180x180_ColorsBangla.jpg" group-title="Ayna OTT", Colors Bangla
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=105&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bff83ca-d4d6-4018-aa96-67dc51926f68_180x180_ColorsHD.jpg" group-title="Ayna OTT", Colors HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=106&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bfaf7d94-6ea7-48db-bc96-85d712f2e794_180x180_bein-sports.jpg" group-title="Ayna OTT", beIN SPORTS
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=108&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/685d5255-141f-454b-ae42-1e9a9bf4cfdb_180x180_zee-action.jpg" group-title="Ayna OTT", Zee Action
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=109&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c8f01034-f179-4636-a32c-5eab0f846cfb_180x180_baby-tv.jpg" group-title="Ayna OTT", BabyTV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=110&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/04beb23e-79be-4811-bb3f-b9651a6e7ce0_180x180_bbc-america.jpg" group-title="Ayna OTT", BBC America
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=111&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/987a4d18-c0f7-48d4-98b5-c50b25c54887_180x180_bloomerg.jpg" group-title="Ayna OTT", Bloomberg TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=112&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ff657e36-0381-458c-9b05-a4ed836dd2f7_180x180_willow-hd.jpg" group-title="Ayna OTT", Willow HD TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=113&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ea8bc3c2-f633-456b-a904-cc6490e6f612_180x180_espen.jpg" group-title="Ayna OTT", ESPN
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=114&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/31c7fb1d-b7ac-4510-8d59-29fb43a13bef_180x180_tsn-1.jpg" group-title="Ayna OTT", TSN 1
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=115&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/40070bbd-e02c-470b-8a1d-1c66e8368de1_180x180_tsn-2.jpg" group-title="Ayna OTT", TSN 2
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=116&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5b4aa44d-900f-4aff-9aed-c3a611b8a604_180x180_tsn-3.jpg" group-title="Ayna OTT", TSN 3
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=117&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/90c3d709-cc88-4829-9e2c-913f5382e8cf_180x180_BTSPORT_01.png" group-title="Ayna OTT", BT Sport 1
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=118&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1a55c207-10b6-47c7-8b0f-9e4d2c2583ff_180x180_BTSPORT02.png" group-title="Ayna OTT", BT Sport 2
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=119&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/76a78687-7397-4b2e-9a6b-106970512218_180x180_FoxSports1.jpg" group-title="Ayna OTT", Fox Sports 1
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=120&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43547f2b-abd9-4df5-abe6-ad76dd740d05_180x180_fox-sports-2.jpg" group-title="Ayna OTT", Fox Sports 2
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=121&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b515749e-6654-483d-b7dc-8c84cb4cedbe_180x180_Movielive.jpg" group-title="Ayna OTT", Movie live
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=122&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/23d62738-4814-4577-9d95-5fdb1a5895a6_180x180_Masti-music.jpg" group-title="Ayna OTT", Mastiii Music
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=123&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/854a9ced-0949-4199-b4eb-f6705d505485_180x180_9xm.jpg" group-title="Ayna OTT", 9XM
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=124&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0893ba89-d5d2-4c32-92fb-a36bbccbb52d_180x180_9x-jalwa.jpg" group-title="Ayna OTT", 9x Jalwa
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=125&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" group-title="Ayna OTT", Nickelodeon
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=126&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8f6cc61a-16f1-4f25-94bb-d525a550c598_180x180_fox-news.jpg" group-title="Ayna OTT", Fox News
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=127&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ad324d5e-84be-44b0-b8d8-f227a0ac1bf2_180x180_travelxp.jpg" group-title="Ayna OTT", Travel XP
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=128&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e8c38849-1fc2-4809-9faa-abb782d3a4f5_180x180_msnbc.jpg" group-title="Ayna OTT", MSNBC News
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=129&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/61143c93-e030-451d-a1b7-c5dff998f972_180x180_food-network.jpg" group-title="Ayna OTT", Food Network
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=131&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ac1bb7a4-7677-4f35-afc5-2ca62dd4dde3_180x180_Makkahlive.jpeg" group-title="Ayna OTT", Makkah Live
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=132&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/02f80ef0-e262-4b63-a61b-19c4a4bbf297_180x180_madinalive.jpeg" group-title="Ayna OTT", Madina Live
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=133&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/432a34b3-9f47-410d-b3b8-bbd45e608faa_180x180_9xjhakaas.jpg" group-title="Ayna OTT", 9x Jhakaas
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=134&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7b18800-7965-4246-9167-3a575869f224_180x180_akash8.jpg" group-title="Ayna OTT", Aakaash 8
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=135&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fcf291bf-4f31-4e60-bd97-3973f71eb5c9_180x180_dhoom_Music_bangla.jpg" group-title="Ayna OTT", Dhoom Music Bangla
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=136&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f90f1cfd-8097-45c5-9f05-59b48b781788_180x180_Dillagiii.jpg" group-title="Ayna OTT", Dillagiii
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=137&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/edc0febf-a0d8-426a-ae2a-cea3ec66670f_180x180_Manoranjan-Movies.jpg" group-title="Ayna OTT", Manoranjan Movies
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=139&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/33740b02-58ee-44ae-b67c-11b14e1fc997_180x180_MusicIndia.png" group-title="Ayna OTT", Music India
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=140&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/58ad7be2-5d80-4cb1-8da1-20182abecd4d_180x180_News_Time_new_logo.png" group-title="Ayna OTT", News Time
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=141&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/13a57162-3b9b-459c-9e3c-4c048dee4c46_180x180_rplus.png" group-title="Ayna OTT", Rplus
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=142&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg" group-title="Ayna OTT", Rupshi Bangla
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=143&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cc989202-1076-4f87-911f-12a5a2d37d38_180x180_RplusGold.jpg" group-title="Ayna OTT", Rplus Gold
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=144&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/13221eca-acf0-4d79-a368-a3273c19b95d_180x180_RplusGold.jpg" group-title="Ayna OTT", Wow Cinema One
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=145&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae2e9a26-ef7f-469f-889d-0a549803477c_180x180_ANB_News.png" group-title="Ayna OTT", ANB News
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=147&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e5d7afb9-de43-4094-a551-5ecf02abbfca_180x180_B4U_Kadak.png" group-title="Ayna OTT", B4U Kadak
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=148&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5f2600f5-4904-4d27-805e-af5051b8219c_180x180_Dabangg.jpg" group-title="Ayna OTT", Dabangg
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=149&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fabcd02e-9786-4687-bcdc-89bf9ef047b0_180x180_RplusGold.jpg" group-title="Ayna OTT", Cinema TV India
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=150&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/609f4795-77e1-4cfd-8569-151acf2074c7_180x180_Dhinchaak.jpg" group-title="Ayna OTT", Dhinchaak
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=152&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Ayna OTT", Goldmines
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=153&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5d3db61b-9d33-47ed-b273-7bb235f14431_180x180_Goldmines_Bollywood.jpg" group-title="Ayna OTT", Goldmines Bollywood
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=154&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4f1364dc-dbb0-47df-9a43-3f316b371053_180x180_GoldminesMovies.jpg" group-title="Ayna OTT", Goldmines Movies
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=155&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bfb8c366-8efc-42f6-9901-df0fd0884736_180x180_Khushboo.jpg" group-title="Ayna OTT", Khushboo
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=156&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0b3396bb-5c04-4d7c-bec0-21f586183d54_180x180_TheQ.jpg" group-title="Ayna OTT", TheQ
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=157&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/164eb222-0c4f-4518-ac47-5be6556c7b6f_180x180_TV9Bangla.jpg" group-title="Ayna OTT", TV9 Bangla
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=158&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/76068588-1b12-4c37-8798-eec3edb5c8d0_180x180_APN.jpg" group-title="Ayna OTT", APN
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=159&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/572947fd-e8d3-47d5-8c2f-d0dbf561fe4c_180x180_AtrangiiTV.jpg" group-title="Ayna OTT", Atrangii TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=160&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cdeb5007-36d3-4303-8665-bb80ad14086b_180x180_AzzadTv.jpg" group-title="Ayna OTT", Azzad TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=161&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/418f4267-3b10-4e93-97f7-070d61cc5074_180x180_Bflix.jpg" group-title="Ayna OTT", Bflix
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=162&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/913f23bc-2d78-4385-b398-8074a77399e5_180x180_pitaara-tv.jpg" group-title="Ayna OTT", Pitaara TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=163&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5a9ed8f5-4ce1-4eef-af5c-d1fdee1105e8_180x180_Dangal.jpg" group-title="Ayna OTT", Dangal
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=164&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d48fbc4-a1cc-4a86-9ca2-dbb8e9a7a8bd_180x180_HindiKhabar.jpg" group-title="Ayna OTT", Hindi Khabar
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=165&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0282be04-fb81-4998-a482-239394a90843_180x180_Dangal2.jpg" group-title="Ayna OTT", Dangal 2
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=166&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4fc190f7-7409-4472-b656-54052434068c_180x180_BharatSamachar.jpg" group-title="Ayna OTT", Bharat Samachar
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=167&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5edf259e-dd5f-4e2a-b73e-967fcf4f5603_180x180_as(7).jpeg" group-title="Ayna OTT", Manoranjan TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=168&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/35f741f0-a816-42c4-98cd-53e796deeeeb_180x180_Network10.jpg" group-title="Ayna OTT", Network 10
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=169&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5ff0b5e4-2973-4c07-9bed-e00ea995e9d9_180x180_as(6).jpeg" group-title="Ayna OTT", News 1 India
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=170&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1e640a-c7e5-4c0e-a439-2d81af7fe933_180x180_as(3).jpeg" group-title="Ayna OTT", Republic TV Bharat
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=171&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3de7a3f5-8fc2-4721-8cc8-48fb787e9ce8_180x180_SadhnaPrimeNews.jpeg" group-title="Ayna OTT", Sadhna Prime News
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=172&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b5457d3c-21fe-4e76-9b42-4dd1f9569439_180x180_as(1).jpeg" group-title="Ayna OTT", Shemaroo TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=173&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8d45fd97-55de-4f30-b6e1-0894b4e05dc5_180x180_e24.jpg" group-title="Ayna OTT", E24
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=174&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/73546ec7-df28-4e64-bb8f-589140cf95e0_180x180_IndiaVoice.jpg" group-title="Ayna OTT", India Voice
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=175&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/aab85a80-8373-4e53-91cf-304a9dd85fed_180x180_News24.jpg" group-title="Ayna OTT", News 24
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=176&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d5326234-3c66-4b7f-9197-514826f243d1_180x180_TaazaTV.jpg" group-title="Ayna OTT", Taaza TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=177&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/eb965994-425e-4bb8-b9d8-a73201f132da_180x180_RongeenTV.jpg" group-title="Ayna OTT", Rongeen TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=178&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e18f6742-ab93-42b6-8503-73f7235689f1_180x180_ShemarooUmang.jpg" group-title="Ayna OTT", Shemaroo Umang
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=179&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/10e61c9c-2ca0-4845-a60e-4d826de140eb_180x180_AfghanTV.jpg" group-title="Ayna OTT", Afghan TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=180&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/430113ef-93d6-4c9c-964c-bcbde277c3d6_180x180_ARYDigitalAsiaHD.jpg" group-title="Ayna OTT", ARY Digital Asia HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=181&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/212f672e-2426-46b3-af8e-42f64114cdee_180x180_ARYMusik.jpg" group-title="Ayna OTT", ARY Musik
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=182&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e666ec64-9ce0-46d2-a86c-61fced11d54d_180x180_ARYNewsAsia.jpg" group-title="Ayna OTT", ARY News Asia
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=183&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc0a5605-e69b-4bfc-83ad-8fbf9cb19026_180x180_ARYQTV.jpg" group-title="Ayna OTT", ARYQ TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=184&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5d0ef5ac-a2b3-46b6-add6-9c47155ad8b6_180x180_ARYZindagi.jpg" group-title="Ayna OTT", ARY Zindagi
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=185&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/35633be0-734d-4c47-92ac-e16f772a013e_180x180_B4U_Movies_India.jpg" group-title="Ayna OTT", B4U Movies India
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=186&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6e35cc54-6ff6-4c58-8a3f-8831c4e5e438_180x180_MovieToday.jpg" group-title="Ayna OTT", Movie Today
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=187&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/49c41f25-123c-4b20-a009-38f2b5e2ddb4_180x180_NTV_Itahari.jpg" group-title="Ayna OTT", NTV Itahari
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=188&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a80ad7a8-7541-408b-855c-54003a670c3c_180x180_B4UHitz.jpg" group-title="Ayna OTT", B4U Hitz
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=189&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d872f34a-7fb1-4dc6-8b88-377aeb66fc7d_180x180_DhamakaMovies.jpg" group-title="Ayna OTT", Dhamaka Movies
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=190&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/16b9c914-059d-4bb8-8b6b-dde07b4c4815_180x180_NTV_Kohalpur.jpg" group-title="Ayna OTT", NTV Kohalpur
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=191&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/01490826-7408-412c-8290-83bab1a58498_180x180_FoodFoodTV.jpeg" group-title="Ayna OTT", Food Food TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=192&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a0f0b6fc-8cc5-4f48-a100-39e25638e9b0_180x180_R_Bangla.jpg" group-title="Ayna OTT", Republic Bangla
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=193&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/490de985-246b-4777-93e2-ec05fa40be17_180x180_abcspark.jpg" group-title="Ayna OTT", ABC Spark
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=194&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4af62437-0055-408a-9971-79747823b76f_180x180_tbs.jpg" group-title="Ayna OTT", TBS
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=195&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae57a7fb-496a-4aa0-a27d-596764c3853d_180x180_fox5.jpg" group-title="Ayna OTT", Fox 5
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=196&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ba10a6a9-51a7-4d60-bfe8-0038953ca8da_180x180_foxbusiness.jpg" group-title="Ayna OTT", Fox Business
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=197&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9efa0a8-e048-4876-8393-50819a3a39ab_180x180_the_weather_cahnnels.jpg" group-title="Ayna OTT", The Weather Channel
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=198&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3a0ce8e1-8341-420f-8d1f-b4c368c5bfe0_180x180_sky_nature.jpg" group-title="Ayna OTT", Sky Nature
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=199&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d9cfc49b-8486-41a0-b480-6cde3b82415d_180x180_pix11.png" group-title="Ayna OTT", Pix11
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=200&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0cf612db-b2cb-49ac-9562-a31022de155b_180x180_amc.jpg" group-title="Ayna OTT", Amc
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=201&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b0fcfe2d-f7b2-40ca-9abe-903a83adc75b_180x180_revolt.jpg" group-title="Ayna OTT", Revolt
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=202&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9345333-5c95-43d4-a136-4b6111aee587_180x180_unnamed.png" group-title="Ayna OTT", axs
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=203&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9bf97538-8c4b-47fd-bef6-5038c675c071_180x180_ytv.jpg" group-title="Ayna OTT", ytv
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=204&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/318b1071-9999-4e14-9ea8-29a4e6516475_180x180_islam.jpg" group-title="Ayna OTT", Islam Channel
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=205&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a8301b59-aecc-41be-94f0-a98525ce2650_180x180_kolkata.jpg" group-title="Ayna OTT", Kolkata TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=206&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99ec757a-71e7-4eb6-ad91-e09346180260_180x180_ChannelWin.jpg" group-title="Ayna OTT", Channel Win
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=207&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bf693e4d-26d7-434c-b673-64049c6b0767_180x180_Nepal1.jpeg" group-title="Ayna OTT", Nepal 1
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=208&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d577f68b-8fcd-4f5e-8619-f1a3d984c744_180x180_bol-entertainment-logo.jpg" group-title="Ayna OTT", BOL Entertainment Ultra HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=209&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/547a15ba-1fc4-4a56-95b4-4e48dc433428_180x180_KidsZoneHD-pk.jpg" group-title="Ayna OTT", Kids Zone HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=210&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/17a12359-25b6-43c1-a167-9262d9dee9a2_180x180_Al_Saudiya_Logo.jpg" group-title="Ayna OTT", Saudi TV1 HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=211&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/36901ffb-4320-4753-98a3-889763222ee6_180x180_8XM-Music-HD.jpg" group-title="Ayna OTT", 8XM Music HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=212&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a7cb31b1-b6b4-4ec4-baed-6677124a8959_180x180_SSCSports1HD.jpeg" group-title="Ayna OTT", SSC Sports 1 HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=213&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/679f5f4e-64a8-4965-97bc-06bb56997645_180x180_SSCExtra1HD.jpeg" group-title="Ayna OTT", SSC Extra 1 HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=214&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/794347ed-ed16-4fb7-be30-a78218fb5f85_180x180_ZeeBanglaCinema.jpg" group-title="Ayna OTT", Zee Bangla Cinema
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=215&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4ad339b5-37f9-4b14-a9b7-43421db1cca0_180x180_BESTACTIONTV.jpg" group-title="Ayna OTT", BEST ACTION TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=216&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/eeae6144-9072-4c7d-a722-43c21edc7aaa_180x180_BESTTHRILLERTV501.jpg" group-title="Ayna OTT", BEST THRILLER TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=217&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c69bb6fa-55b7-43e8-b630-de0a52a5fc49_180x180_CHRONOTVcopie.jpg" group-title="Ayna OTT", CHRONO TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=218&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1b73d516-444f-4004-85a8-239de8409ba3_180x180_KIDS503.jpg" group-title="Ayna OTT", BEANI KIDS TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=219&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9ecbbe8f-e5a2-46a3-9d6c-c76d6e5625b3_180x180_KUNGFU+504.jpg" group-title="Ayna OTT", KUNG FU+
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=220&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f6021804-959e-4e8c-9045-b9fbbcd5ce82_180x180_505.jpg" group-title="Ayna OTT", SPORT FISHING TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=221&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f0ac143c-793e-4589-9d17-1b56958dac39_180x180_PRIMEFIGHT.jpg" group-title="Ayna OTT", PRIME FIGHT HD TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=222&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c4def3d3-4ef4-4401-bbbe-c6752c3fe48c_180x180_babyfirst_logo_2019.jpg" group-title="Ayna OTT", BABY FIRST
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=223&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4b3b0dbd-2aa1-4c0a-8516-9f4706711a54_180x180_ColourBlind(logo)copie.jpg" group-title="Ayna OTT", COLOUR BLIND
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=224&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b81412fe-c4c7-417a-af81-05e7ca8aadc2_180x180_Bollywood4ulogo.jpg" group-title="Ayna OTT", BOLLYWOOD 4U
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=225&e=.m3u8|User-Agent=bdsajib
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkD9GG3Z/2023-Nick-3-D.png" group-title="Bioscope", Nickelodeon
 https://bdtubelive.xyz/bdix.m3u8?id=nickelodeon
 
