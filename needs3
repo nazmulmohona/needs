@@ -935,6 +935,16 @@ https://bdsajib112.000webhostapp.com/bdaynaa.php?id=224&e=.m3u8|User-Agent=bdsaj
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b81412fe-c4c7-417a-af81-05e7ca8aadc2_180x180_Bollywood4ulogo.jpg" group-title="Ayna OTT", BOLLYWOOD 4U
 https://bdsajib112.000webhostapp.com/bdaynaa.php?id=225&e=.m3u8|User-Agent=bdsajib
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhjVCpnJ/tPZKfLr.png" group-title="JAGO BD", Deepto Tv
+https://livess.jagobd.com.bd/live-orgin/deeptotv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b26da36a-8cc2-4d78-81b5-712efa69484a/a21de3fd-d994-403a-ae83-c7b54c2f224f.png?width=300" group-title="JAGO BD", Rajdhani Tv
+https://livess.jagobd.com.bd/live-orgin/rajdhanitv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jagonews24.com/media/common/logo.png" group-title="JAGO BD", Jago News 24
+https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.dw.com/image/47222913_401.png" group-title="JAGO BD", DW
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/chunks.m3u8
 
