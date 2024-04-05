@@ -1295,3 +1295,25 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3SsCNmg/Varendra-TV.jpg" group-title="JAGO BD", Varendra TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/varendratv.stream/chunks.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png" group-title="Bangla", ATN BANGLA
+https://tv5.hoichoi24.com/1126/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdWQmcw2/Channel9.jpg" group-title="Bangla", CHANNEL 9
+https://tv5.hoichoi24.com/1124/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhjVCpnJ/tPZKfLr.png" group-title="Bangla", DEEPTO TV
+https://tv5.hoichoi24.com/1105/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/maasranga_tv_bd.png" group-title="Bangla", MAASRANGA TV
+https://tv5.hoichoi24.com/1122/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nagorik-tv-bd.png" group-title="Bangla", NAGORIK TV
+https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="Bangla", RTV
+https://tv5.hoichoi24.com/1128/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y40dwCw/mn88b34.png" group-title="Bangla", NEWS 24
+https://tv5.hoichoi24.com/1112/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaan_bangla_tv_bd.png" group-title="Bangla", GAAN BANGLA
+https://tv5.hoichoi24.com/1110/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/maasranga_tv_bd.png" group-title="Bangla", Maasranga TV
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
