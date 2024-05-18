@@ -129,8 +129,6 @@ http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-tv-bd.png",Green TV[PALKI]
 http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/bYGDC2Hk/in-high-news-3156.jpg",High News
-http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://www.ibtvusa.com/img/logo.png",IB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/GtBJTpC9/IBTV-USA.jpg",IBTV USA
