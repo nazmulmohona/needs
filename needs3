@@ -67,8 +67,6 @@ http://cdn01.palki.tv/live/Channeli-M/index.m3u8
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://cbntvusa.net/wp-content/uploads/2022/06/cbn-tv-usa-1.jpg",CNN Bangla
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/KzNHSksj/Cb.jpg",COLORS Bangla HD
-http://tv.cloudcdn.me/live.ts?channelId=92&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.cumilla24.net/media/header_logo/S-logo-03.png",Cumilla TV
 http://103.149.142.133/0.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/43dZL7vq/djAX8Rc.png",DBC News[JAGOBD]
@@ -133,8 +131,6 @@ https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/live-orgin/jagoronitv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/SR54fs8G/jagoronitv.jpg",Jagoroni TV[JAGOBD]
 https://livess.ncare.live/live-orgin/jagoronitv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_jalsha_movies_in.png",Jalsha Movies HD 3
-http://tv.cloudcdn.me/live.ts?channelId=117&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jamuna_tv_bd.png",Jamuna TV[JAGOBD]
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/nrLJ6PYr/Jonmo-Bhumi-TV-tvtolive-com.jpg",JonmoBhumi TV[JAGOBD]
@@ -193,11 +189,7 @@ https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/DfN3wzzs/yi5p51T.png",RTV HD[JAGOBD]
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/RhqKwWPw/Samay-Kolkata.jpg",Samay Kolkata
-https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/02zYKq57/Sananda-TV-logo-2011.png",Sananda TV
-https://fr.tvanondo.online/sananda/video.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://yt3.googleusercontent.com/1Ek1alc_zzPZpGMsVADvCKz86QYsCFq2UXkyf6KrqO4VMf6GbaEK7umJDR_g0g6VTYsrmcHjl4s=s176-c-k-c0x00ffffff-no-rj",Sangeet Bangla
+#EXTINF:-1 group-title="Music" tvg-logo="https://yt3.googleusercontent.com/1Ek1alc_zzPZpGMsVADvCKz86QYsCFq2UXkyf6KrqO4VMf6GbaEK7umJDR_g0g6VTYsrmcHjl4s=s176-c-k-c0x00ffffff-no-rj",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/J7TH7nQY/1200px-Sangsad-Television-Emblem-svg.png",Sangsad TV[PALKI]
 http://cdn01.palki.tv/live/SangsadTV-M/index.m3u8
@@ -207,8 +199,6 @@ https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.lyngsat.com/logo/tv/ss/somoy_news.png",Somoy TV[PALKI]
 http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/pVs6sjF1/Sb.jpg",Star Jalsha BACKUP
-http://tv.cloudcdn.me/live.ts?channelId=116592&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-cinema-in.png",Sun Bangla Cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/nL1VSHFx/favicon.png",TBN 24
@@ -231,8 +221,6 @@ https://livess.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
 https://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg",WION[PALKI]
 http://cdn01.palki.tv/live/WION-M/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/d1vxxm6g/Zb.jpg",ZEE Bangla 4k
-http://tv.cloudcdn.me/live.ts?channelId=120&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/Z5mfj9ZS/Animal-Planet-HD.png",Animal Planet HD
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/Z5mfj9ZS/Animal-Planet-HD.png",Animal Planet HD
@@ -477,8 +465,6 @@ https://legitpro.co.in/hls10/cnews/index.m3u8
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.postimg.cc/9FLSQjVV/CNN-News18.png",CNN News18 [SamsungTVPlus]
 https://amg01448-samsungin-cnnnewsnw18-samsungin-ad-gv.amagi.tv/playlist/amg01448-samsungin-cnnnewsnw18-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX HD
-http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.postimg.cc/k4mXXBRY/Colosal-TV.jpg",Colosal TV[JAGOBD]
 https://livess.ncare.live/live-orgin/colosal.stream/chunks.m3u8
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.postimg.cc/VvX7dvJD/image.jpg",Comedy Dynamics
@@ -879,9 +865,9 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.postimg.cc/Twts6qdV/image.png",Salem News Channel
 https://snc-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://ik.imagekit.io/hoichoi/svf/wp-content/uploads/2021/11/sb-logho.jpg",Sangeet Bangla
+#EXTINF:-1 group-title="Music" tvg-logo="https://ik.imagekit.io/hoichoi/svf/wp-content/uploads/2021/11/sb-logho.jpg",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.postimg.cc/PrWhyvnN/g9OTeXV.png",Sangeet Bangla
+#EXTINF:-1 group-title="Musicl" tvg-logo="https://i.postimg.cc/PrWhyvnN/g9OTeXV.png",Sangeet Bangla
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.postimg.cc/YCx9HcfY/Sangeet-Bhojpuri.jpg",Sangeet Bhojpuri
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
@@ -901,8 +887,6 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 https://shoutfactory-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.postimg.cc/1zqCsCDg/dac0f37721f1ee652942a29b1c22cd8fec596cd45cd5747c533b27e916bcd25c.png",So… Real
 https://cinedigm-soreal-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png",SONY MAX 2 HD
-http://tv.cloudcdn.me/live.ts?channelId=183&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.postimg.cc/QtPV3fWg/Sony-MAX-HD-WHITE.png",Sony Max HD
 http://103.120.172.74:1150
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.postimg.cc/fLkkpGkT/SONY-SAB-HD-WHITE.png",Sony Sab HD
@@ -953,14 +937,10 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 https://tv5.hoichoi24.com/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.postimg.cc/gjR3fwRz/Starsportss1.jpg",Star Sports Select 1 HD
 http://103.120.172.74:1030
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1 HD
-http://tv.cloudcdn.me/live.ts?channelId=299&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.postimg.cc/gjR3fwRz/Starsportss1.jpg",Star Sports Select 1 HD
 http://148.113.5.31:8106/play/a00f/index.m3u8
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.postimg.cc/Y2mN4PP5/Starsportss2.jpg",Star Sports Select 2 HD
 http://103.120.172.74:4700
-#EXTINF:-1 group-title="TV Channel" tvg-logo="hhttps://tv.otvBangla.com/uploads/tv_image/star-sports-select-1-hd.jpg",Star Sports Select 2 HD
-http://tv.cloudcdn.me/live.ts?channelId=300&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.postimg.cc/Y2mN4PP5/Starsportss2.jpg",Star Sports Select 2 HD
 http://148.113.5.31:8106/play/a00g/index.m3u8
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaR-p-1XTKLBvr4mvBiMk5CyJ23Q0nm0d_PPGOTY=s900-c-k-c0x00ffffff-no-rj",SteelBird Music
