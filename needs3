@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-tv-bd.png" group-title="JAGO BD", GREEN TV
+https://bds.jagobd.com:447/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekhon-tv-bd.png" group-title="JAGO BD", Ekhon TV
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhtB7Fnf/58Krth.png" group-title="JAGO BD", IQRA BANGLA
+https://bds.jagobd.com:447/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/J426dMCJ/AB-TV-USA.jpg",AB TV USA[JAGOBD]
 https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV[JAGOBD]
